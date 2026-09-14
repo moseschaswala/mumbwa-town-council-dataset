@@ -12,7 +12,7 @@ The repository stores source documents, notebooks, scripts, documentation, and f
 | IDP | 23 | 546 | ready for analysis |
 | Council Structure and Management | 2 | 26 | Ready for analysis |
 | Meetings and Minutes | 1 | 119 | Needs manual text-quality review |
-| Finance | 3 |  | ready for analysis |
+| Finance | 3 | 616 | ready for analysis |
 
 The full table list is in `docs/dataset_manifest.csv`.
 

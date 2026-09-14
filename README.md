@@ -9,11 +9,10 @@ The repository stores source documents, notebooks, scripts, documentation, and f
 | Category | Final CSV files | Final rows | Status |
 | --- | ---: | ---: | --- |
 | CDF | 5 | 1,871 | Ready for analysis |
-| IDP | 23 | 546 | Cleaned final tables |
+| IDP | 23 | 546 | ready for analysis |
 | Council Structure and Management | 2 | 26 | Ready for analysis |
 | Meetings and Minutes | 1 | 119 | Needs manual text-quality review |
-| Finance | 0 | 0 | Folder prepared; data to be added |
-| Public Services and Legal Data | 0 | 0 | Folder prepared; data to be added |
+| Finance | 3 |  | ready for analysis |
 
 The full table list is in `docs/dataset_manifest.csv`.
 

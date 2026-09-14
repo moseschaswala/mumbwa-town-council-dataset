@@ -72,7 +72,7 @@ df = pd.read_csv(
 
 ## Privacy Note
 
-Some public CDF bursary records include personal information such as student or pupil names, dates of birth, NRC numbers, and contact persons. Before publishing to a public platform, the group should decide whether to publish the original files or create a redacted public version.
+Some public CDF bursary records include personal information such as student or pupil names, dates of birth, NRC numbers, and contact persons. Before publishing to a public platform, seek permission
 
 ## Finance Data
 

@@ -1,0 +1,382 @@
+record_number|student_name|nrc_no|province|district|constituency|ward|zone|gender|course_or_skill|skill_level|programme_duration|institution|source_id|year|cdf_category
+1.0|Chibutu Faith||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+2.0|Njapao Enerst||Central|Mumbwa|Nangoma|||M|Automotive Engineering||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+4.0|Lubesha Samuel||Central|Mumbwa|Nangoma|||M|Mechanics Engineering||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+6.0|Shimpondo Mervia||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+7.0|Kapeta Jackline||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+8.0|Rosena N'gandu||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+9.0|Moonga Trophister||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+10.0|Bright Sibakonka||Central|Mumbwa|Nangoma|||M|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+11.0|Sitando Sipiwe||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+12.0|Favourite Hankombo||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+13.0|Chibutu Fales||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+14.0|Mazabuka Milumbe Elina||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+15.0|Phiri Suzan||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+16.0|Kazele Fungai||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+17.0|Zambilila Constance||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+20.0|Mulowa Allan||Central|Mumbwa|Nangoma|||M|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+21.0|Haasingu Dorothy||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+23.0|Hankombo Twaambo||Central|Mumbwa|Nangoma|||F|General Agriculture||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+24.0|Patricia Tembo||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+25.0|Lumamba Titus||Central|Mumbwa|Nangoma|||M|General Agriculture||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+26.0|Mwiinga Clara||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||12 Months|Technical and Vocational Teachers College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+27.0|Nkandela Shadreck||Central|Mumbwa|Nangoma|||M|Information and Communication Technology||36 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+28.0|Simbao Chitalu||Central|Mumbwa|Nangoma|||M|Automotive Electrical||24 Months|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+29.0|Aaron Mwiinga||Central|Mumbwa|Nangoma|||M|Automotive Engineering||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+30.0|Chibiya Everless||Central|Mumbwa|Nangoma|||F|General Agriculture||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+31.0|Milimo Auditor||Central|Mumbwa|Nangoma|||M|Power Electrical||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+32.0|Mweepu Rabecca||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+33.0|Nakalumbwe Elina||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+34.0|Mulela Brighton||Central|Mumbwa|Nangoma|||M|Information and Communication Technology||3 Years|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+35.0|Mulilo Sharon||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+36.0|Mufwempa Inedy||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Zambia College of Agriculture|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+37.0|Hamweemba Chiboola||Central|Mumbwa|Nangoma|||F|Electrical Engineering||2 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+38.0|Mwalilanda Mercy||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+39.0|Katapya Witker||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+40.0|Mwalilanda Christone||Central|Mumbwa|Nangoma|||F|Computer Studies||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+41.0|Mulundika Jane||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+42.0|Namasiku Memory||Central|Mumbwa|Nangoma|||F|General Agriculture||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+46.0|Mundia Mukela||Central|Mumbwa|Nangoma|||M|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+48.0|snes||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Months|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+49.0|Lumwaya Trust||Central|Mumbwa|Nangoma|||M|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+50.0|Nakwambwa Lubasi||Central|Mumbwa|Nangoma|||F|General Agriculture||24 Months|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+51.0|Shichongo Speedwell||Central|Mumbwa|Nangoma|||M|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+52.0|Tyson Chaaba||Central|Mumbwa|Nangoma|||M|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+53.0|Kachingwe Dorcas||Central|Mumbwa|Nangoma|||F|General Agriculture||3 Months|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+56.0|Kamanisha Timothy||Central|Mumbwa|Nangoma|||M|Fashion Design and Textile Technology||12 Months|ee and Vocational Teachers|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+57.0|prudence Chimwala||Central|Mumbwa|Nangoma|||F|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+58.0|Atken Moonga||Central|Mumbwa|Nangoma|||M|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+59.0|sammy ea||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+60.0|Moonga Luyando||Central|Mumbwa|Nangoma|||F|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+61.0|Nakwambwa Kebby||Central|Mumbwa|Nangoma|||M|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+62.0|Shinyanga Lydia||Central|Mumbwa|Nangoma|||F|General Agriculture||13 Months|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+63.0|Mirriam Chimwaya||Central|Mumbwa|Nangoma|||F|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+64.0|Simangolwa Derick||Central|Mumbwa|Nangoma|||M|Diploma in Agriculture||3 Years|RDO Development College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+65.0|Watson Selenge||Central|Mumbwa|Nangoma|||M|Computer Studies||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+66.0|Ngweluka Emeldah||Central|Mumbwa|Nangoma|||M|Fashion Design and Textile Technology||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+67.0|Mukwanka Kaluba||Central|Mumbwa|Nangoma|||F|General Agriculture||1 (3 Months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+68.0|Gracious Hanyati||Central|Mumbwa|Nangoma|||F|Tailoring||12 Months|Mansocment Berd CoMEE|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+69.0|Jennipher Chisani||Central|Mumbwa|Nangoma|||F|Tailoring||12 Months|Technical and Vocational College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+70.0|Janety Chisani||Central|Mumbwa|Nangoma|||F|Tailoring||12 Months|wa eg tema College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+71.0|Gwen Kintu||Central|Mumbwa|Nangoma|||F|Basic Fire Fighting||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+72.0|Mirriam Lupenga||Central|Mumbwa|Nangoma|||F|Food Production||12 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+73.0|Scovia Masumo||Central|Mumbwa|Nangoma|||F|General Agriculture||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+74.0|Milika Maiteketa||Central|Mumbwa|Nangoma|||F|Auto Mechanics||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+75.0|Arthur Nchenga||Central|Mumbwa|Nangoma|||M|General Agriculture||12 Months|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+76.0|Milimo Munyonzwe||Central|Mumbwa|Nangoma|||M|Auto Mechanics||12 Months|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+77.0|Rosemary Shinakaba||Central|Mumbwa|Nangoma|||F|Fashion Design & Textile Technology||12 Months|Technical and Vocational College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+78.0|caatyama||Central|Mumbwa|Nangoma|||M|Rak Centficate in Heavy Equipment||24 Months|Nortec|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+79.0|Mystry Chooka||Central|Mumbwa|Nangoma|||M|Electrical Technician||36 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+80.0|Chikambwe Abishai||Central|Mumbwa|Nangoma|||M|Mechanical Technician||36 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+81.0|eine||Central|Mumbwa|Nangoma|||M|Mechanical Technician||36 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+82.0|Ronald Hamilenga||Central|Mumbwa|Nangoma|||M|Auto Mechanics Engineering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+83.0|Ndiya Treazer||Central|Mumbwa|Nangoma|||F|Electrical Craft||2 Years|Luanshya Technical and Business College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+84.0|Kaselo Mukisi||Central|Mumbwa|Nangoma|||F|Electrical Engineering||3 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+85.0|Naniiones Maleva||Central|Mumbwa|Nangoma|||M|General Agriculture||3 Years|RDO Pevetopmen cones|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+86.0|Chibela Timothy||Central|Mumbwa|Nangoma|||M|Electrical Engineering||3 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+87.0|Lubosai Collins||Central|Mumbwa|Nangoma|||M|sAgriculture||1Year|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+88.0|Tiriboyi Gladys||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+89.0|Phiri Lizzy||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+90.0|Mwaanga Bianca||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+91.0|Kalela Henry||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year (3 months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+92.0|Lubasi Nakwambwa||Central|Mumbwa|Nangoma|||M|General Agriculture||2 Years|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+93.0|Shangozhi Clotildah||Central|Mumbwa|Nangoma|||F|General Hospitality||2 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+94.0|Kawewe Steven||Central|Mumbwa|Nangoma|||M|Power Electrical||2 Years|cna vamational Bat Technical|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+95.0|Buumba Divera||Central|Mumbwa|Nangoma|||F|General Hospitality||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+96.0|Similindi Falecy||Central|Mumbwa|Nangoma|||F|Computer Studies||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+97.0|Ngoma John||Central|Mumbwa|Nangoma|||M|Metal Fabrication||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+98.0|Bhebhe Tan||Central|Mumbwa|Nangoma|||M|Automotive Engineering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+99.0|Lumamba Gibson||Central|Mumbwa|Nangoma|||M|Auto Mechanics||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+100.0|Chikoko Parry||Central|Mumbwa|Nangoma|||M|Bricklaying and Plastering||1 Year|Mumbwa Youth Resource. Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+101.0|Mirriam Banda||Central|Mumbwa|Nangoma|||F|Generai Agriculture||2 Years|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+102.0|Malambo Loveness||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+103.0|Lungu Karen||Central|Mumbwa|Nangoma|||F|ree ee ing and TO||1Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+104.0|Malaila Clara||Central|Mumbwa|Nangoma|||M|Fashion Design and Textile Technology||1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+105.0|Malaila Bridget||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+106.0|Masowe Syivia||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+107.0|Chilima Luyando||Central|Mumbwa|Nangoma|||M|General Hospitality||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+108.0|Mwiinga Patricia||Central|Mumbwa|Nangoma|||F|General Hospitality||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+109.0|Kabwe Natasha||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+110.0|Verenka Ziyanda||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+111.0|Thole Lydia||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+112.0|Kabwe Precious||Central|Mumbwa|Nangoma|||F|Electrical Technology||1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+113.0|Chikati Taonga||Central|Mumbwa|Nangoma|||F|Diploma in Agriculture||3 Years|nua esouress Development College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+114.0|Hamuuto Goodson||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+115.0|Phiri Esther||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+116.0|Sinala Sibonile||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+117.0|Hamusonde Clifford||Central|Mumbwa|Nangoma|||M|Auto Mechanics||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+118.0|Habusiwa Newton||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+119.0|Mutenge Helwin||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+120.0|Chibulo Hence||Central|Mumbwa|Nangoma|||M|Auto Mechanics||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+121.0|eae on Danny||Central|Mumbwa|Nangoma|||M|Automotive Engineering||1Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+122.0|Tembo Patrick||Central|Mumbwa|Nangoma|||M|Automotive Engineering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+123.0|Shalutambo Jones||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+124.0|Nzovu Melody||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+125.0|Himainda Mainza Ss||Central|Mumbwa|Nangoma|||F|s Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+126.0|Kabwele Chrispine||Central|Mumbwa|Nangoma|||M|Bricklaying and Plastering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+127.0|Mweemba Abadon||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+128.0|Mwansa Musonda||Central|Mumbwa|Nangoma|||M|Automotive Engineering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+129.0|Maimbo Charity||Central|Mumbwa|Nangoma|||F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+130.0|Binnah Chifuntu||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+131.0|Mpokota Exon||Central|Mumbwa|Nangoma|||M|Computer Studies||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+132.0|Kaluba Mukwanka||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+133.0|Maiambo Happiness||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+134.0|Likwashi Kawina||Central|Mumbwa|Nangoma|||M|Plumbing and Pipe Fitting||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+135.0|Silumesi Enock||Central|Mumbwa|Nangoma|||M|Plumbing and Pipe Fitting||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+136.0|Masiye Bongani||Central|Mumbwa|Nangoma|||F|Computer Studies||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+137.0|Mulexa Rector||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+138.0|MuchachalaliSebia||Central|Mumbwa|Nangoma|||M|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+139.0|Muleya Caroline||Central|Mumbwa|Nangoma|||F|Tailoring,Cutting and Design||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+140.0|Mukela Joseph||Central|Mumbwa|Nangoma|||M|Diploma in Agriculture||3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+141.0|Mulenga Hustings||Central|Mumbwa|Nangoma|||M|General Agriculture||2 Years|Zambia College of Agriculture|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+142.0|Katazo Mulenzi||Central|Mumbwa|Nangoma|||M|Automotive Engineering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+143.0|Mobby Kalonda||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|ST.Mawaggali Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+144.0|Nyambe Betty||Central|Mumbwa|Nangoma|||F|Electrical Engineering||3 Years|Melzara College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+145.0|Ndambo Emmanuel||Central|Mumbwa|Nangoma|||M|Diploma in Agriculture||3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+146.0|Banda Mirriam||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+147.0|Felix Mulela||Central|Mumbwa|Nangoma|||M|Engineering||3 Years|Zambia Air Services Training|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+148.0|Margret Njapao||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+149.0|Luckson Nakooba||Central|Mumbwa|Nangoma|||M|Engineering||3 Years|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+150.0|Musipa Mercy||Central|Mumbwa|Nangoma|||F|Heavy Equipment Repair||1 Year|Luanshya Technical and Business College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+151.0|Mwambula Enock||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+152.0|jMandevu Bill 7||Central|Mumbwa|Nangoma|||M|Food Production||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+153.0|Nyambe Brian||Central|Mumbwa|Nangoma|||M|Bricklaying and Plastering||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+154.0|Chisani Memory||Central|Mumbwa|Nangoma|||F|General Hospitality||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+155.0|Mukabila Loveness||Central|Mumbwa|Nangoma|||F|Computer Studies||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+156.0|Mwansa Joe||Central|Mumbwa|Nangoma|||F|Motor Mechanics||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+157.0|Mooya Twaambo||Central|Mumbwa|Nangoma|||M|Motor Mechanics||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+158.0|Tembo Memory||Central|Mumbwa|Nangoma|||F|General Hospitality||7 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+159.0|Chimbwe Ewings||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+160.0|Makusa Fortunately||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+161.0|Moonga Nachambwa||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+162.0|Moonga Aspin||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+163.0|Moonga Amos||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+164.0|Mazila Lovedel||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+165.0|Mweemba Jonathan||Central|Mumbwa|Nangoma|||M|Motor Mechanics||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+166.0|Matafani Pretty||Central|Mumbwa|Nangoma|||F|Power Electrical||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+167.0|Kalenga Beatrice||Central|Mumbwa|Nangoma|||F|Power Electrical||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+168.0|Gift Katimbe||Central|Mumbwa|Nangoma|||M|Auto Motive||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+169.0|Moonga Osward||Central|Mumbwa|Nangoma|||M|Auto-Mechanics Engineering||1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+170.0|Kanyumbu Laston||Central|Mumbwa|Nangoma|||M|Motor Mechanics||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+171.0|Njame Grace||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+172.0|Malungo Brian||Central|Mumbwa|Nangoma|||F|Automotive Engineering||1 Year|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+173.0|Taonga Phiri||Central|Mumbwa|Nangoma|||F|General Agriculture||2 Years|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+174.0|Muganya Rodrick||Central|Mumbwa|Nangoma|||M|Motor Mechanics||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+175.0|Kapaya Saviour||Central|Mumbwa|Nangoma|||M|Plumbing and Pipe Fitting||1 Year|Luanshya Technical and Business College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+176.0|Poniso Poniso||Central|Mumbwa|Nangoma|||M|Bricklaying and Masonry Craft||2 Years|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+178.0|Mweetwa Tyson||Central|Mumbwa|Nangoma|||M|Electrical Technician||3 Years|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+179.0|Kayombo Kutemba||Central|Mumbwa|Nangoma|||F|Information tation and Communication Technology||3 Years|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+180.0|Trywell Manondela||Central|Mumbwa|Nangoma|||M|Mechanical Technician||3 Years|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+181.0|Misozi Mkandawire||Central|Mumbwa|Nangoma|||M|Information nation and Communication Technology||2 Years|Zambia Air Services Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+182.0|Banda Written||Central|Mumbwa|Nangoma|||F|General Hospitality||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+183.0|Mubamba Elina||Central|Mumbwa|Nangoma|||F|Food Production||2 Years|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+184.0|Chipikauka Ruth||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+185.0|Mubamba Mawini||Central|Mumbwa|Nangoma|||F|Food Production||2 Years|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+186.0|Muyoyo Obed||Central|Mumbwa|Nangoma|||M|Power Electrical||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+187.0|Mulenga Cryford||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+188.0|Vununa Sharon||Central|Mumbwa|Nangoma|||F|General Hospitality||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+189.0|Chulu Pretina||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+190.0|Kandolo Jenipher||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+191.0|Mweemba Hildah||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+192.0|Hamunyone Lilian||Central|Mumbwa|Nangoma|||F|Computer Studies||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+193.0|Habwiinga Troness||Central|Mumbwa|Nangoma|||F|Computer Studies||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+194.0|Madimutsa Chipo||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+195.0|Shachile Chabala||Central|Mumbwa|Nangoma|||F|Food Production||1 Year|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+196.0|Banda Ephraim||Central|Mumbwa|Nangoma|||M|Computer Studies||3 Years|Eden University|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+197.0|Muzaza Chimalya Sa||Central|Mumbwa|Nangoma|||F|Computer Studies||3 Years|Eden University|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+198.0|Kahangu Jacob||Central|Mumbwa|Nangoma|||M|General Agriculture||1 Year|Nkumbi International College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+199.0|Nyirongo Phyela||Central|Mumbwa|Nangoma|||F|General Agriculture||1 Year|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+1.0|Munagisha Oggy|225049/81/1||Mumbwa|Nangoma|Matala|Katengwa|M|Automotive Mechanics|Certificate|1 Year|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+2.0|Banda Eveness|687596/10/1||Mumbwa|Nangoma|Matala|Matala|F|Trade Computer|Certificate|1 Year|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+3.0|Sikaonga Trevor|317277/15/1||Mumbwa|Nangoma|Matala|Matala|M|Electrical Engineering|Certificate|2 Years|Luanshya Technical and Business College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+4.0|Simalwani Chinyama|495369/74/1||Mumbwa|Nangoma|Matala|Kantengwa|F|General Agriculture|Diploma|3 Years|Zambia Institute of Animal Health|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+5.0|Malaila Patrick|290254/15/1||Mumbwa|Nangoma|Matala|Kantengwa|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+6.0|Hellen Mukwanka|263924/15/1||Mumbwa|Nangoma|Matala|Kantengwa|F|General Agriculture|Certificate|1 Year|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+7.0|Francis Nshimbi|216097/15/1||Mumbwa|Nangoma|Matala|Matala|M|Driving Class C1|Certificate|30 Days|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+8.0|Stembile Chewe|792380/10/1||Mumbwa|Nangoma|Matala|Matala|F|Catering|Certificate|1 Year|Queensland College of Excellence|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+9.0|Phiri Mercy|392099/10/1||Mumbwa|Nangoma|Matala|Katenengwa|F|Computer Application and Networking|Certificate|6 Months|Phonex Research Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+10.0|Chitawu Dedrine|459367/74/1||Mumbwa|Nangoma|Matala|Matala|M|Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+11.0|Mubanga Namana|354331/15/1||Mumbwa|Nangoma|Matala|Matala|M|Driving Class C1|Certificate|1Month|Industrial Training Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+12.0|Ndukute Shephered|280072/10/1||Mumbwa|Nangoma|Matala|Matala|M|Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+13.0|Mumba Felesia|398548/53/1||Mumbwa|Nangoma|Matala|Katenengwa|F|Food Production|Certificate|6 Months|Phonex Research Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+14.0|Banda Willfred|332110/15/1||Mumbwa|Nangoma|Matala|Katenengwa|M|Tailoring and Design|Certificate|1 Year|Phonex Research Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+15.0|Shilling Charles|285922/15/1||Mumbwa|Nangoma|Matala|Katenengwa|M|Motor Grader|Certificate|5 Weeks|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+16.0|Mukalo Matildah|302146/15/1||Mumbwa|Nangoma|Matala|Katenengwa|M|Food Production|Certificate|1 Year|Phonex Research Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+17.0|Hakobwa Franklin|215001/15/1||Mumbwa|Nangoma|Matala|,Kansangwa|M|General Agriculture|Certificate|1 Year|(3Mor Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+18.0|Ng'andu Lyabwa|319521/71/1||Mumbwa|Nangoma|Matala|Matala|M|Power Electrical|Certificate|1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+19.0|Chamalambo Harrison|326795/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C1|Certificate|21 Days|IBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+20.0|Shangozhi Smart|271429/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C1|Certificate|21 Days|IBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+21.0|Kamanisha Obert|319162/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class Cl|Certificate|21 Days|IIBUTE TUTU Driving School oe|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+22.0|Shabongo Arason|318577/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C1|Certificate|21 Days|IBUTETUTUDrivingSchool|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+23.0|Shangozhi Crotildah|327348/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Food Production|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+24.0|Liyambo Bright|347946/15/1||Mumbwa|Nangoma|Nangoma|Nakabu|M|Plumbing|Certificate|1 Year|Shimabala Training Institute 7 a|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+25.0|Nyoni Donald|310410/15/1||Mumbwa|Nangoma|!Nangoma|Kasalu|M|Automotive Mechanics|Certificate|1 Year|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+26.0|Luchendo Gladson|271499/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving|Certificate|21 Days|IBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+27.0|Phiri Lizzy|451671/43/1||Mumbwa|Nangoma|Nangoma|Kasula|F|Tailoring and Design|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+28.0|Lubanze Price|287309/15/1||Mumbwa|Nangoma|Nangoma|Kasula|M|Driving Class C1|Certificate|3 Weeks|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+29.0|Shabongo Langson|340105/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|DrivingClassC|Certificate|5 Weeks|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+30.0|Silukena Tabo|337478/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|F|Fashion and Design i|Certificate|1 Year|Queensland College of Excellence|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+31.0|Silukena Munembo|337477/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|F|General Agricultare|Certificate|1 Year|Queensland College of Excellence|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+32.0|Chomba Mulenga|252169/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+33.0|Oris Simata|309678/76/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+34.0|Winnie Kaseke|860790/10/1||Mumbwa|Nangoma|Nangoma|Kasalu|F|information and Technology|Diploma|3 Years|Zambia University College of Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+35.0|Kaira Andrew|208014/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C1|Certificate|3 Weeks|CAMCO College :|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+36.0|Jabulani Vernon|255202/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving Class C1|Certificate|3 Weeks|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+37.0|Sakala Memory|263228/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Food Production|Certificate|6 Months|Phonex Research Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+38.0|Musole Chilemu|326962/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving|Certificate|1Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+39.0|Chooma Andrew|308294/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Driving|Certificate|21 Days|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+40.0|Matongo Future|339475/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|General Agriculture|Certificate|1 Year|Kaoma Trade Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+41.0|Sangelenge Monica|336611/15/1||Mumbwa|Nangoma|Nangoma|Kasalu|F|General Agriculture|Certificate|2 Years|Kaoma Trade Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+42.0|Shinyimbu Young|431384/74/1||Mumbwa|Nangoma|Nangoma|Kasalu|M|Tractor Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+43.0|Kabumbwe Lydia|321482/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|Food Production|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+44.0|Chiloola Ragiff|242599/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|Tailoring and Design|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+45.0|Moya Agness|321409/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|Tailoring and Design|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+46.0|Dexter Mukangaza|139381/14/1||Mumbwa|Nangoma|Myooye|Mukupi|M|Driving|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+47.0|Malambo Agness|322139/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|Tailoring and Design|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+48.0|Gilbert Situmbeko|287276/15/1||Mumbwa|Nangoma|Myooye|Myooye|M|Heavy Duty Truck Driving|Certificate|2 Months|Belsam DrivingSchool j|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+49.0|Praise Situmbeko|521466/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|Professional Events Decoration|Certificate|2 Months|Whiteline Enterprenuership|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+50.0|Treazer Ndiya|309639/15/1||Mumbwa|Nangoma|Myooye|Shimunungu|F|DrivingClassCl|Certificate|3 Months|Luanshya Techinicat and Business college|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+51.0|Kennedy Masuku|320075/15/1||Mumbwa|Nangoma|Myooye|Shimumbu|M|Excavator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+52.0|Brian Mulebi|154207/69/1||Mumbwa|Nangoma|Myooye|Myooye|M|Automotive Engineering|Certificate|2 Years|Luanshya Technical and Business College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+53.0|George Nshimbi|243766/25/1||Mumbwa|Nangoma|Myooye|Myooye|M|Automotive Mechanics|Certificate|2 Years|Luanshya Technical and Business College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+54.0|Arnold Kalwazhi|243137/15/1||Mumbwa|Nangoma|Myooye|Myooye|M|TruckClassCE|Certificate|2 Months|Pascal Institute of Operator & Safety|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+55.0|Castine Siavonga|326950/15/1||Mumbwa|Nangoma|Myooye|Shimumbu|M|Truck/Tipper Class C|Certificate|2 Months|Pascal Institute of Operator & Safety|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+56.0|Syden Kafulo|322062/15/1||Mumbwa|Nangoma|Myooye|(Nachibila|M|Truck Class CE|Certificate|2 Months|Pascal Institute of Operator & Safety|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+57.0|Biyata Mukobo|678654/10/1||Mumbwa|Nangoma|Mumbwa|Nangoma' Myooye Myooye|F|Food Production|Diploma|3 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+58.0|Kapinda Noah Kamaila|419975/74/1||Mumbwa|Nangoma|Myooye|Mukupi|M|Driving Class C1|Certificate|3 Months|Zambia School of Driving|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+59.0|Siambunda Jonathan|290307/15/1||Mumbwa|Nangoma|Myooye|Myooye|M|Driving Class C1|Certificate|1 Month|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+60.0|Kainga Trever|237716/15/1||Mumbwa|Nangoma|Myooye|Mycoye|M|Driving Class C1|Certificate|3 Weeks|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+61.0|Chilukata Joan|407983/33/1||Mumbwa|Nangoma|Myooye|Myooye|F|Food and Nutrition|Diploma|3 Years|NRDC|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+62.0|Mubita Doreen|255392/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|General Agriculture|Certificate|2 Years|Zambia College of Agriculture|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+63.0|Muleya Pumulo|254723/15/1||Mumbwa|Nangoma|Myooye|yooye|F|General Agriculture|Certificate|2 Years|Popota Agricultural College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+64.0|Nokhuthula Sinala|474464/16/1||Mumbwa|Nangoma|Myooye|Myooye|F|General Agriculture|Diploma|3 Years|NRDC|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+65.0|Kipatela Hezekiah|329222/15/1||Mumbwa|Nangoma|Mumbwa|Mumbwa Myooye Myooye|M|Driving|Certificate|3 Months|SSajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+66.0|Nalwamba Ruth|1253347/15/1||Mumbwa|Nangoma|Myooye|Myooye|F|General Agriculture|Diploma|3 Years|NRDC|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+67.0|Muluti Joshua|322253/15/1||Mumbwa|Nangoma|Myooye|Myooye|M|Driving|Certificate|1Month|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+68.0|Jonathan Mwila|1940370/10/1||Mumbwa|Nangoma|Myooye|Mycoye|M|Auto-Electrical|Diploma|3 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+69.0|Miyanda Gerald|478597/74/1||Mumbwa|Nangoma|Chisalu|Chilonga|M|Tipper Truck Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+70.0|Shamwana Innocent|342090/15/1||Mumbwa|Nangoma|Chisalu|Kayanza|M|Tipper Truck Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+71.0|Banda Petros|327197/15/1||Mumbwa|Nangoma|Chisalu.|Makuyua boombe|M|Driving Class CI|Certificate|3 Months|3Menths Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+72.0|MuzindaM. Charles|267133/15/1||Mumbwa|Nangoma|Chisalu|Malende|M|Driving Class C1|Certificate|3 Months|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+73.0|Mweemba Christopher|327252/15/1||Mumbwa|Nangoma|Chisalu|Malende|M|Driving Class Ct|Diploma|3 Years|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+74.0|Hakombo Paul|310362/15/1||Mumbwa|Nangoma|Chisalu|Malende|M|Driving|Certificate|1 Month|1.Month Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+75.0|Chimbwe Bornaventure|278497/15/1||Mumbwa|Nangoma|Chisalu|Chilonga|M|Tipper Truck Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+76.0|Mweemba Obrien|333213/15/1||Mumbwa|Nangoma|Chisalu|Chilonga|M|Tipper Truck Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+77.0|Sikalumbwe Lendx|334396/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|F|Automotive Engineering|Certificate|2 Years|Lusaka Vocational Techinal College Managemer|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+78.0|Shimwense Frint|341561/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|M|Driving Class C1|Certificate|3 Months|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+79.0|Malasha Bedford|326090/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|M|Driving Class C1|Certificate|3 Months|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+80.0|Lupiya Modey|326240/15/1||Mumbwa|Nangoma|Chisalu|!Shakumb ila|M|Driving|Certificate|3 Months|SSajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+81.0|Maninga Francis|335017/15/1||Mumbwa|Nangoma|Chisalu|Kayanza|M|Driving|Certificate|3 Months|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+82.0|Tembo Jemmy|327130/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|M|Driving|Certificate|3 Months|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+83.0|Chikombe Boyd|1326276/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|M|Driving|Certificate|2 Months|Sajo Driving Schoot|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+84.0|Mulembwete Mweemba|224695/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Dring|Certificate|2 Months|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+85.0|Simasika Brain|339456/15/1||Mumbwa|Nangoma|Chisala|Chilonga|M|Driving|Certificate|6 Months|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+86.0|Hamaumbwe Maxwell|467679/10/1||Mumbwa|Nangoma|Chisala|(Kayanza|F|Tipper Truck Operator|Certificate|1 Year|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+87.0|Mutenge Gift|271775/15/1||Mumbwa|Nangoma|Chisalu|Chisalu|M|Driving Tipper Class C|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+88.0|Malaya Brian|326334/15/1||Mumbwa|Nangoma|Chisalu|Chisalu 9|M|Driving|Certificate|1 Year|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+89.0|Hamalambo Fitman|339457/15/1||Mumbwa|Nangoma|Chilsalu|Chilonga|M|Driving|Certificate|1 Year|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+90.0|Mukwanga Jathanon|244414/15/1||Mumbwa|Nangoma|Chisalu|Malende|M|Driving|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+91.0|Hamalambe Oggy|314377/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|M|Heavy Duty Driving|Certificate|1Month|CAMCO College a|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+92.0|Eva kupola|1359001/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|F|Cake Baking|Certificate|1 Month|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+93.0|Erica Shanjili|365814/15/1||Mumbwa|Nangoma|Chisalu|Shakumbila|F|Cake Baking|Certificate|1 Month|Wansanje Travel and Tourism Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+94.0|Cacious Mweemba Chilor|249201/15/1||Mumbwa|Nangoma|Chisalu|Makuyua boombe|M|Agriculture|Certificate|2 Years|Twin Fountain Agricultural Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+95.0|Moonga Joy|269940/15/1||Mumbwa|Nangoma|Chisala.|Chisalu|M|Carpentry and Joinery|Certificate|2 Years|Thorn Park Construction Training Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+96.0|Mwawe Charles|348197/66/1||Mumbwa|Nangoma|Chisalu|Chisalu|M|Driving Class C1|Certificate|21 Days|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+97.0|Shiluwe Paul|293231/15/1||Mumbwa|Nangoma|Chisalu|Malende|M|Driving Class C1|Certificate|3 Weeks|Shimabala Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+98.0|Hamooya Blessings|347674/15/1||Mumbwa|Nangoma|Chisalu|Chilonga|M|Driving Class C1|Certificate|6 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+99.0|Halwembe Molegy|1327674/15/1||Mumbwa|Nangoma|Chisalu|Chilonga|M|Driving Class C1|Certificate|6 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+100.0|Lwendo Weston|272165/15/1||Mumbwa|Nangoma|Chisalu|,Chilonga|M|Driving ClassC|Certificate|1 Year|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+101.0|Mbwili Ester|307140/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|F|General Agriculture|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+102.0|Mapya Daniel|228514/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|DrivingelassCl|Certificate|1 Month|Pascal Institute of Operator and Safety|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+103.0|Hambone Heliness /|802018/10/1||Mumbwa|Nangoma|Keezwa|Mukubu|F|General Agriculture|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+104.0|Namainga Phinias|307478/15/1||Mumbwa|Nangoma|Keezwa|Mpande|M|Driving Class C1|Certificate|3 Months|IBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+105.0|Chinzana Austen|228116/15/1||Mumbwa|Nangoma|Mumbwa|Nangoma' Keezwa Mukubv|M|DrivingClass CL|Certificate|21 Days|IIBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+106.0|Hamweene Kelvin|1269629/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class C1|Certificate|21 Days|IIBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+107.0|Hamweene Elijah|303397/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class C1|Certificate|21 Days|IBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+108.0|Chibulo Coirad|339793/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class C1|Certificate|21 Days|IBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+109.0|Matalauzi Davison|126430/78/1||Mumbwa|Nangoma|Keezwa|Keezwa|M|Driving Class Cl|Certificate|21 Days|IIBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+110.0|Chizana Alfred|341999/15/1||Mumbwa|Nangoma|Keezwa|Shakumbila|M|Driving Class C1|Certificate|21 Days|IIBUTE TUTU Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+111.0|Namunenga Venity|336423/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|F|Auto Mechanics|Certificate|1 Year|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+112.0|Mwiinga Stembridge|203375/13/1||Mumbwa|Nangoma|Keezwa|Keezwa|M|Auto Mechanics|Certificate|1 Year|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+113.0|ZuluRichard|538631/53/1||Mumbwa|Nangoma|Keezwa|Mukba|F|Auto Mechanics|Certificate|1 Year|BH. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+114.0|Mwiimbu Auditor|139345/15/1||Mumbwa|Nangoma|Keezwa|Keezwa|F|Auto Mechanics|Certificate|1 Year|BH. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+115.0|Mweemba Skilled|306787/17/1||Mumbwa|Nangoma|Keezwa|Luumpe|F|Food Production|Certificate|9 Months|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+116.0|Shiluwe Hildah|320701/15/1||Mumbwa|Nangoma|Keezwa|Mpande|M|Tailoring and Design|Certificate|1 Year|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+117.0|Sitengu Roberty|436572/15/1||Mumbwa|Nangoma|Keezwa|Mpande|M|Information Communication and Technology|Certificate|1 Year|Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+118.0|Mudenda Mbwili|307139/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|F|General Agriculture|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+119.0|Namunenga Chance|269323/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Bricklaying and Plastering|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+120.0|Ottedy Namunenga|303335/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class B|Certificate|30 Days|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+121.0|Aaron Munangandu|232532/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class C1|Certificate|30 Days|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+122.0|Kenneth Mukubaani|339663/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class B|Certificate|30 Days|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+123.0|Harrison Shapowe|334743/15/1||Mumbwa|Nangoma|Keezwa|Mukubu|M|Driving Class B|Certificate|30 Days|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+124.0|Adrian Shichoonda|303065/15/1||Mumbwa|Nangoma|Choma|Muchabi|F|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+125.0|Namakau Mukelabai|406067/73/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+126.0|Gilbert Chikumbe|247840/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|DrivingClassC1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+127.0|James Sicuumba|303830/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|DrivingClassCl|Certificate|1 Month|Zambian School of Driving|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+128.0|Richard Kalenga|303042/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class B|Certificate|1 Month|Zambian School of Driving|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+129.0|Abeshyne Kasweka|275001/44/1||Mumbwa|Nangoma|Choma|Choma|M|DrivingClassC1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+130.0|Stanford Nalumpa|224944/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class C|Certificate|3 Weeks|3. Weeks Halien College and Technology|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+131.0|Moonde Mapenzi|599632/10/1||Mumbwa|Nangoma|Choma|Nguzu|M|Motor Grader Machine|Certificate|3 Weeks|National Council for Construction|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+132.0|Mulobya Lucky|261039/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+133.0|Ndiya Willson|303072/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class C1|Certificate|1Month|Sajo Driving Schoo!|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+134.0|Fanwell Chilima|108318/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+135.0|Edward Shimilimo|224660/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class C1|Certificate|1 Month|SSajo Driving School oe|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+136.0|Shilubu Isaac|259791/15/1||Mumbwa|Nangoma|Choma|Muchabi|M|Driving Class CI|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+137.0|Webster Shamutiki|261956/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class CI|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+138.0|Shamutiki Biggie|261957/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+139.0|Reuben Mwiinga|259728/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+140.0|Chifwepa Zechariah|303141/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|!DrivingClassC1|Certificate|1Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+141.0|Nkonka Lawrence|303237/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1Month|SSajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+142.0|Mbayi Honest|260006/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|(Driving Class C1|Certificate|1 Month|SSajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+143.0|Mutengo Victor|172827/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving ClassCl|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+144.0|Agent Manyepa|303373/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class CI|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+145.0|Mpolo Christopher|259900/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+146.0|Mtengo Kennedy|224903/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+147.0|Chester Shachoongo|224835/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+148.0|Chifwepa Laival|331263/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+149.0|Bristol Chisangana|872788/11/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+150.0|Kaoma Karif|259833/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|DrivingClassC1|Certificate|1Month|SSajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+151.0|Kabunda Honest|302181/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+152.0|Mbai Weston|255039/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Trailer Truck Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+153.0|i 153 FweluFred|341446/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+154.0|Cosphay Mutanga|320082/15/1||Mumbwa|Nangoma|Choma|Nguzu|M|Driving Class C1|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+155.0|Mukuni Memory|289403/15/1||Mumbwa|Nangoma|Nakasak a|Chiwena|F|General Agriculture|Certificate|1 Year|( 3Mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+156.0|Maleya Naomy|328527/15/1||Mumbwa|Nangoma|Nakasak a|Busanga|F|General Agriculture|Certificate|1 Year|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+157.0|Mukuni Melody|309883/15/1||Mumbwa|Nangoma|Nakasak a|Busanga|F|General Agriculture|Certificate|1 Year|( 3mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+158.0|Chisani Getrude|285568/15/1||Mumbwa|Nangoma|Nakasak a|Chiwena|F|General Agriculture|Certificate|1 Year (3 months)|Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+159.0|Ngandu Mirriam|294175/15/1||Mumbwa|Nangoma|Nakesak a|Busanga|F|General Agriculture|Certificate|1 Year|( 3mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+160.0|Mumba Carol|283050/15/1||Mumbwa|Nangoma|Nakasak a|Chiwena|F|General Agriculture|Certificate|1 Year|( 3mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+161.0|Ntalasha Frank|196071/15/1||Mumbwa|Nangoma|Nakasak a|Busanga|M|General Agriculture|Certificate|1 Year|( 3mon'Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+162.0|Kanuma Prisciila|205715/15/1||Mumbwa|Nangoma|Nakasak a|Busanga|M|General Agriculture|Certificate|1 Year|( 3mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+163.0|Mukuni Elizabeth|310083/15/1||Mumbwa|Nangoma|Nakasak a|Busanga|F|General Agriculture|Certificate|1 Year (3 months)|1¥ear( 3mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+164.0|Given Luondo|309007/15/1||Mumbwa|Nangoma|Nakasak a|Sanje|M|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+165.0|Joy Chola Siame|351116/15/1||Mumbwa|Nangoma|Nakasak a|Sanje|M|Driving|Certificate|1 Month|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+166.0|Chiba Michelo|435277/16/1||Mumbwa|Nangoma|Nakasak a|Nambwa|F|General Agriculture|Certificate|1 Year (3 months)|1'Year( 3Mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+167.0|Fatima Kahare|255394/15/1||Mumbwa|Nangoma|Nakasak a|Nambwa|F|General Agriculture|Certificate|1 Year|( 3Mon Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+168.0|Eamest Shandila|326640/15/1||Mumbwa|Nangoma|Nakasak a|Maimwee ne|M|Auto Mechanics|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+169.0|Mosese Kalikeka|336671/15/1||Mumbwa|Nangoma|Nakasak a|Sanje|M|Auto Electrical|Certificate|1 Year|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+170.0|Mark Suwilanji Siame|309098/15/1||Mumbwa|Nangoma|Nakasak a|Sanje|M|Driving|Certificate|1 Month|B.H. Technical College Management Board|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+171.0|Exildah Phiri|326791/15/1||Mumbwa|Nangoma|Nakasak a|,Chiwena|F|Food Production|Certificate|6 Months|Heaven Catail skills Training Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+172.0|Elizabeth Muchinko|282877/15/1||Mumbwa|Nangoma|Nakasak a|Nambwa|F|General Agriculture (|Certificate|1 Year|(3Mor Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+173.0|Paul Shandila Shimonde|277180/15/1||Mumbwa|Nangoma|Nakasak a|Maimwee ne|M|Auto Mechanics|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+174.0|Angela Muchinko|321869/15/1||Mumbwa|Nangoma|Nakasak a|Nambwa|F|General Agriculture|Certificate|1 Year|(3Mor Hope College of Education|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+175.0|Chibwe Chikuza|302446/15/1||Mumbwa|Nangoma|Nakasak a|Chiwena|F|Tailoring|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+176.0|Lillian Zabane|860213/10/1||Mumbwa|Nangoma|Nakasak a|Chiwena|F|Electrical Engincering|Certificate|2 Years|Lusaka Business and Technical College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+177.0|Emuran Maingaila|337383/15/1||Mumbwa|Nangoma|Shichanz u|Chombwa|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+178.0|Cheelo Shiloonde|337106/15/1||Mumbwa|Nangoma|Shichanz u|Chombwa|M|Excavator operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+179.0|Simba Cheelo|337105/15/1||Mumbwa|Nangoma|Shichanz u|Chombwa|M|Excavator operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+180.0|Raphia Mwanza|306904/15/1||Mumbwa|Nangoma|Shichanz u|Namaban ga|M|Bricklaying & Masonry|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+181.0|Chuma Himonga|392679/24/1||Mumbwa|Nangoma|Shichanz u|Malima|F|Automotive Engineering|Certificate|1 Year|) Year 'Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+182.0|Obby Malambo|316832/15/1||Mumbwa|Nangoma|Shichanz u|Choombw a|M|Bricklaying & Masonry|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+183.0|Gift Chilufya|337094/15/1||Mumbwa|Nangoma|Shichanz u|Choombw a|M|Bricklaying & Masonry|Certificate|6 Months|Destiny Education Centre a|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+184.0|George Joule Bantubonse|720504/10/1||Mumbwa|Nangoma|Shichanz u|Choombw a|M|Tipper Truck Operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+185.0|Brian Chikanda|203728/18/1||Mumbwa|Nangoma|Shichanz u|Choombw a|M|Bricklaying & Masonry|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+186.0|Douglas Joule Muponya|506113/74/1||Mumbwa|Nangoma|Shichanz u|Choombw a|M|Tipper Truck|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+187.0|Himonga Chuma|392679/24/1||Mumbwa|Nangoma|Shichanz u|Mukolo|F|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+188.0|Samuel Simusokwe|386493/74/1||Mumbwa|Nangoma|Shichanz u|Malima|M|Excavator operator|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+189.0|Rabson Chisenga|965339/10/1||Mumbwa|Nangoma|Shichanz u|Malima|M|Trailer Truck Operator CE|Certificate|1 Month|CAMCO College|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+190.0|Rita Shamabanze|215344/15/1||Mumbwa|Nangoma|Shichanz u|Choombw a|F|Fashion, Design & Textile Technology|Certificate|3 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+191.0|Lizzy Mabonge|318860/15/1||Mumbwa|Nangoma|Shichanz u|Choombw a|F|Fashion, Design & Textile Technology|Certificate|3 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+192.0|Mike Halwiindi|529223/74/1||Mumbwa|Nangoma|Shichanz u|Malima|M|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+193.0|Ruth Mweemba|256765/15/1||Mumbwa|Nangoma|Shichanz u|Choombw a|F|Fashion, Design & Textile Technology|Certificate|3 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries
+194.0|Previous Mweemba|321008/15/1||Mumbwa|Nangoma|Shichanz u|Choombw a|F|Fashion,Design & Textile Tech|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_nangoma_2025|2025|skills_bursaries

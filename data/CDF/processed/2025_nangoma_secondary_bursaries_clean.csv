@@ -1,0 +1,295 @@
+record_number|pupil_name|province|district|constituency|ward|zone|gender|date_of_birth|grade|grade_started_on_bursary|new_grade_2025|school_name|school_location|status|source_id|year|cdf_category
+1.0|Blessings Chatabankana|Central|Mumbwa|Nangoma|||F|||9.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+2.0|Mildred Chatabankana|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+3.0|Mukwasa Bernadette|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+4.0|Marubire Memory|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+5.0|Mulenga Chileshe|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+6.0|Zulu Naomi|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+7.0|Kalenda Doris|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+8.0|Mpundu Victoria|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+9.0|Muvwimi Jackline|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+10.0|Wakumelo Anna|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+11.0|Halumba Audrey|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+12.0|Ndumba Priscar|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+13.0|Chiko Choolwe|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+14.0|Handuba Priscilla|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+15.0|Muzuli Peggy|Central|Mumbwa|Nangoma|||F|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+16.0|Mwiya Rodgers|Central|Mumbwa|Nangoma|||M|||10.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+17.0|Mwiya Patrina|Central|Mumbwa|Nangoma|||M|||10.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+18.0|Lweendo Simalumba|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+19.0|Zacheas Mweene|Central|Mumbwa|Nangoma|||M|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+20.0|Credia Shimumba Mulodu|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+21.0|Aslord Tembo|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+22.0|Gilson Mwiinga|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+23.0|Mapenzi Siyambunda|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+24.0|Rose Manyika|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+25.0|Joyce Twaambo|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+26.0|Rabson Mukwani|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+27.0|Remedy Mweemba|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+28.0|Emelia Bwiya|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+29.0|Selina Moongo|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+30.0|Priscilla Nkhata|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+31.0|Fend Kapapa|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+32.0|Loveness Fukela|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+33.0|Chama Dennison Nseluka|Central|Mumbwa|Nangoma|||M|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+34.0|Christine Kafimbwa|Central|Mumbwa|Nangoma|||F|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+35.0|Omar Mundanda|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+36.0|Ruth Chimwanso|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+37.0|Greenwell Mulenga|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+38.0|Princess Chinala|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+39.0|Mervis Hankwazi|Central|Mumbwa|Nangoma|||F|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+40.0|Shadreck Miyengo|Central|Mumbwa|Nangoma|||M|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+41.0|Elias Mulenga|Central|Mumbwa|Nangoma|||M|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+42.0|Gladys Grace Mulenga|Central|Mumbwa|Nangoma|||F|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+43.0|Oliness Mulimba|Central|Mumbwa|Nangoma|||F|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+44.0|Dyness Mwansile|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+45.0|Paul Chunga|Central|Mumbwa|Nangoma|||M|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+46.0|Prisca Ntaulu|Central|Mumbwa|Nangoma|||F|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+47.0|Thelma Malembeka|Central|Mumbwa|Nangoma|||F|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+48.0|Whyson Nkata|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+49.0|Maartha Phiri|Central|Mumbwa|Nangoma|||F|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+50.0|Trisha Maambo|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+51.0|Ronald Hanyama|Central|Mumbwa|Nangoma|||M|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+52.0|Owen Muchana|Central|Mumbwa|Nangoma|||M|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+53.0|Justine Kansonso|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+54.0|Matthews Bulambo|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+55.0|Precious Muyamba|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+56.0|Ivy Nteenda|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+57.0|Mathews Mukali mwaanza|Central|Mumbwa|Nangoma|||M|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+58.0|Bether Hamasuwe|Central|Mumbwa|Nangoma|||F|||9.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+59.0|Margaret Ngoi|Central|Mumbwa|Nangoma|||F|||8.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+60.0|Letisha Esther Kapanga|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+61.0|Mukelabai Lubinda|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+62.0|Vanest Habula|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+63.0|Monica Namakai iareen|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+64.0|Chisanga Placidah Kan|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+65.0|Violet Alice Zulwe|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+66.0|Michelle Nelly Zulu|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+67.0|Lister Naonge|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+68.0|Sharon Mukumbi|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+69.0|Angela Shinaimbwe|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+70.0|Stella Chitundu|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+71.0|Mulanga Bwalya Maur|Central|Mumbwa|Nangoma|||F|||8.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+72.0|Patience Mukata|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+73.0|Agness Kabila|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+74.0|Febby Shamwiilu|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+75.0|Maureen Manyando|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+76.0|Voilet Musangu|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+77.0|Lucia Chombelekwa|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+78.0|Beatrice Chitundu|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+79.0|Esther Natasha Chilonc|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+80.0|Paxina Saviye|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+81.0|Virginia Zabane|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+82.0|Thelma Maambo|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+83.0|Margret Phiri|Central|Mumbwa|Nangoma|||F|||11.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+84.0|Elizabeth Moyo|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+85.0|Angela Hakoma|Central|Mumbwa|Nangoma|||F|||10.0||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+86.0|Chikumbutso Miti|Central|Mumbwa|Nangoma|||M|||8.0||Kafushi Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+87.0|Deborah Samulozela|Central|Mumbwa|Nangoma|||F|||8.0||Kafushi Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+88.0|Jofrey Banda|Central|Mumbwa|Nangoma|||M|||8.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+89.0|Purity Chnmbola|Central|Mumbwa|Nangoma|||F|||8.0||Kafushi Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+90.0|Mulenga Venango|Central|Mumbwa|Nangoma|||M|||8.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+91.0|Chibwe Blessings|Central|Mumbwa|Nangoma|||F|||10.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+92.0|Kaumba Exildah|Central|Mumbwa|Nangoma|||F|||9.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+93.0|Edith Mutapila|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+94.0|Siavwapa Chipo|Central|Mumbwa|Nangoma|||F|||10.0||Margaret Mwachiyeya Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+95.0|Siavwapa Luyando|Central|Mumbwa|Nangoma|||F|||9.0||Margaret Mwachiyeya Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+96.0|Chinyama Deborah|Central|Mumbwa|Nangoma|||F|||10.0||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+97.0|Choonya Liseli|Central|Mumbwa|Nangoma|||F|||8.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+98.0|Chinanswa Foster|Central|Mumbwa|Nangoma|||M|||8.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+99.0|Banda Geofrey|Central|Mumbwa|Nangoma|||M|||10.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+100.0|Sitali Miyayo|Central|Mumbwa|Nangoma|||F|||10.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+101.0|Lulumbi Athaliah Mubanga|Central|Mumbwa|Nangoma|||F|||8.0||Kapiri Girls National STEM School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+102.0|Chimwemwe Namukal|Central|Mumbwa|Nangoma|||F|||11.0||Kapiri Girls National STEM School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+103.0|Siavwapa Hellen|Central|Mumbwa|Nangoma|||F|||10.0||Kafushi Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+104.0|Siavwapa Patrick|Central|Mumbwa|Nangoma|||M|||8.0||Kafushi Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+105.0|Machiya Florence|Central|Mumbwa|Nangoma|||F|||8.0||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+106.0|Samulolela Deborah|Central|Mumbwa|Nangoma|||F|||8.0||Kafushi Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+1.0|Elisha Jama||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+2.0|Mushingwa Moses||Mumbwa|Nangoma|Myooye|Nachibila|M||9|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+3.0|Sibunda Daniel||Mumbwa|Nangoma|Myooye|Myooye|M||9|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+4.0|Chiloola Lewis||Mumbwa|Nangoma|Myooye|Myooye|M||9|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+5.0|Choomba Alfred||Mumbwa|Nangoma|Myooye|Myooye|M||11|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+6.0|Moonga Joseph||Mumbwa|Nangoma|Myooye|Myooye|M||9|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+7.0|Mweemba Purity||Mumbwa|Nangoma|Myooye|Myooye|F||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+8.0|Mulenga Doris||Mumbwa|Nangoma|Myooye|Myooye|F||8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+9.0|Kaingu Precious Ireen||Mumbwa|Nangoma|Myooye|Myooye|F||8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+10.0|Ndonji Peter Lazorus||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+11.0|Chimiti Oscar||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+12.0|Mweetwa Loveday||Mumbwa|Nangoma|Myooye|Myooye|M||11|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+13.0|Nkombo Joyce||Mumbwa|Nangoma|Myooye|Myooye|F||8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+14.0|Nachiyunde Phaides||Mumbwa|Nangoma|Myooye|Myooye|F||11|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+15.0|Michelo Ivy||Mumbwa|Nangoma|Myooye|Myooye|F||11|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+16.0|Mulemba Mutinta||Mumbwa|Nangoma|Myooye|Myooye|F||11|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+17.0|Mwanza Isaac||Mumbwa|Nangoma|Myooye|Myooye|M||11|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+18.0|Chijikwa Bright||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+19.0|Mukabila Dominic Bria1||Mumbwa|Nangoma|Myooye|Myooye|M||8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+20.0|Cheelo Sydney||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+21.0|Kayuwa Emmanuel||Mumbwa|Nangoma|Myooye|Myooye|M||8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+22.0|Chikumbe Stanford||Mumbwa|Nangoma|Myooye|Myooye|M||8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+23.0|Mbiliza Fenson||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+24.0|Mapulanga Loveness||Mumbwa|Nangoma|Myooye|Myooye|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+25.0|Simalumba Blesing||Mumbwa|Nangoma|Myooye|Myooye|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+26.0|Siazana William||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+27.0|Priscilla Jama||Mumbwa|Nangoma|Myooye|Myooye|F||9|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+28.0|Nshimbi Margret||Mumbwa|Nangoma|Myooye|Myooye|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+29.0|Chinzana Godfrey||Mumbwa|Nangoma|Myooye|Myooye|M||10|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+30.0|Lubamba Neeble||Mumbwa|Nangoma|Myooye|Cholonga|F||G8|||Shimungu Primary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+31.0|Mazwi Isaac||Mumbwa|Nangoma|Myooye|Kalwazyi|M||G10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+32.0|Silumba Josphine||Mumbwa|Nangoma|Myooye|Mundand|F||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+33.0|Miyanda Dorcas||Mumbwa|Nangoma|Myooye|Kalwazyi|F||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+34.0|Zulu Mercy||Mumbwa|Nangoma|Myooye|Myooye|F||G10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+35.0|Misulwe Victor||Mumbwa|Nangoma|Myooye|Nachibila|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+36.0|Chikumbe Nathan||Mumbwa|Nangoma|Myooye|Nachibila|M||G10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+37.0|Previous Mweene||Mumbwa|Nangoma|Myooye|Malima|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+38.0|Mazuba Bert||Mumbwa|Nangoma|Myooye|Muluka|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+39.0|Hamweene Mercy||Mumbwa|Nangoma|Myooye|Mukupi|F||G10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+40.0|Edify Moonga M||Mumbwa|Nangoma|Myooye|Nambole|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+41.0|Shamwale Esther||Mumbwa|Nangoma|Myooye|Tiina|F||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+42.0|Hanjobo Reason||Mumbwa|Nangoma|Myooye|Chooba|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+43.0|Nyatelo Jasper||Mumbwa|Nangoma|Myooye|Lumano|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+44.0|Shamabanze Carol||Mumbwa|Nangoma|Myooye|Musangu|F||G10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+45.0|Shipondwe James||Mumbwa|Nangoma|Myooye|Mulonda|F||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+46.0|Mulando Boston||Mumbwa|Nangoma|Myooye||M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+47.0|Himoonga Mapenzi||Mumbwa|Nangoma|Myooye|Kalwazyi|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+48.0|Mangwende Agness||Mumbwa|Nangoma|Myooye|Kalwazyi|M||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+49.0|Siamwenja Eggyneta||Mumbwa|Nangoma|Myooye|Kalwazyi|F||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+50.0|Njapao Rosemary||Mumbwa|Nangoma|Myooye|Myooye|F||G10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+51.0|Hamaleka Chimama Ma||Mumbwa|Nangoma|Choma|Shakumb|M||8|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+52.0|Nyambe Keith||Mumbwa|Nangoma|Choma|Shakumb|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+53.0|Malumbe Chipo||Mumbwa|Nangoma|Naluband|Naluband|F||8|||School for the Blind Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+54.0|Michili Hildah||Mumbwa|Nangoma|Naluband|Naluband|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+55.0|Sikalya Lenard||Mumbwa|Nangoma|Naluband|Naluband|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+56.0|Sikalya Guide||Mumbwa|Nangoma|Naluband|Mweemp|M||8|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+57.0|Naampwa Christina||Mumbwa|Nangoma|Naluband|Naluband|F||10|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+58.0|Shambosha Dickson||Mumbwa|Nangoma|Naluband|Changwe|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+59.0|Michelo Brighton||Mumbwa|Nangoma|Naluband|Naluband|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+60.0|Sibanda Sakhile||Mumbwa|Nangoma|Naluband|Naluband|M||10|||Serenje Provincial Boys STEM Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+61.0|Hilonde Royce||Mumbwa|Nangoma|Naluband|Naluband|F||8|||Chunga Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+62.0|Sibanda Annah||Mumbwa|Nangoma|Naluband|Naluband|F||8|||Chunga Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+63.0|Mwanahanza Betty||Mumbwa|Nangoma|Naluband|Naluband|F||8|||Chunga Boarding School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+64.0|Hamakaye Grace||Mumbwa|Nangoma|Nalubandi|Naluband|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+65.0|Hilonde Carol||Mumbwa|Nangoma|Nalubandi|Naluband|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+66.0|Hakoma Promise||Mumbwa|Nangoma|Nangoma|Nangoma|M||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+67.0|Musonda Abel||Mumbwa|Nangoma|Nangoma|Chifuntu|M||8|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+68.0|Muleya Choolwe||Mumbwa|Nangoma|Nangoma|Chifuntu|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+69.0|Mapande Joyce||Mumbwa|Nangoma|Nangoma|Chifuntu|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+70.0|Elijah Sheleni||Mumbwa|Nangoma|Nangoma|Chifuntu|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+71.0|Nakonje Febby||Mumbwa|Nangoma|Nangoma|Nangoma|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+72.0|Nabanyama Cecilia||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+73.0|Muteteete Lushomo Fait||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+74.0|Njovu Bupe||Mumbwa|Nangoma|Nakasaka|Torno|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+75.0|Christencia Nawa||Mumbwa|Nangoma|Nakasaka|Torno|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+76.0|Mwiinga Jane Trisher||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+77.0|Simunyemba Luyando||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+78.0|Nyambe Hellen Chibale||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+79.0|Chamisa Ednah||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+80.0|Patricia Hamweezu||Mumbwa|Nangoma|Nakasaka|Chimbwe|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+81.0|Mwiinga Faith||Mumbwa|Nangoma|Nakasaka|Mwanam|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+82.0|Simanda Blessings||Mumbwa|Nangoma|Nakasaka|Mondeng|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+83.0|Mubianana Esnart Kapa||Mumbwa|Nangoma|Nakasaka|Chilala|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+84.0|Fahzai Jere Beaty||Mumbwa|Nangoma|Nakasaka|Kapelabu|F||11|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+85.0|Muleya Sipiwe||Mumbwa|Nangoma|Nakasaka|Maimwer|F||11|||Itezhi-Tezhi Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+86.0|Nankonde Chomba||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+87.0|Phiri Ruth Elizabeth||Mumbwa|Nangoma|Nakasaka|Maimwer|F||8|||Maimwene Primary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+88.0|Banda Chifundo Mercy||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+89.0|Sinamalima Joe||Mumbwa|Nangoma|Nakasaka|Maimwer|M||11|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+90.0|Malambo Thelma||Mumbwa|Nangoma|Nakasaka|Chiwena|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+91.0|Chikuna Matha||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+92.0|Simoonga Natalia Luyar||Mumbwa|Nangoma|Nakasaka|Sanje|F||9|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+93.0|Cheelo Maxwell||Mumbwa|Nangoma|Nakasaka|Chiwena|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+94.0|Habanyama Cecilia Nati||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+95.0|Edith Chilufya||Mumbwa|Nangoma|Nakasaka|Kalonga|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+96.0|Habula Venest||Mumbwa|Nangoma|Nakasaka|Kalonga|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+97.0|Chipako Patricia||Mumbwa|Nangoma|Nakasaka|Lwili|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+98.0|Kawina Agness||Mumbwa|Nangoma|Nakasaka|Chiwena|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+99.0|Muliso Chrisyine||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+100.0|Mozeka Annastazia||Mumbwa|Nangoma|Nakasaka|Chiwena|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+101.0|Machawa Mary||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+102.0|Manda Shekaina Alice||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+103.0|Lungu Kamana||Mumbwa|Nangoma|Nakasaka|Chiwena|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+104.0|Lumamba Alice Mukacl||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+105.0|Kalangu Daizy Buumba||Mumbwa|Nangoma|Nakasaka|Sanje|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+106.0|Mbofwana Chabota||Mumbwa|Nangoma|Nakasaka|Nambwa|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+107.0|Mwiinga Mary||Mumbwa|Nangoma|Nakasaka|Nambwa|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+108.0|Ngwenya Josephine Mu||Mumbwa|Nangoma|Nakasaka|Nambwa|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+109.0|Kalemba Charity||Mumbwa|Nangoma|Nakasaka|Chiwena|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+110.0|Lumamba Merina||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+111.0|Musaka Nomai||Mumbwa|Nangoma|Nakasaka|Sanje|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+112.0|Miyanda Lushomo||Mumbwa|Nangoma|Nakasaka|Nakasaka|M||8|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+113.0|Kamuso Loveness||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+114.0|Nyimbili Martha||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+115.0|Gando Princesly||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+116.0|Munene Violet||Mumbwa|Nangoma|Nakasaka|Kalonga|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+117.0|Mulunda Nzala||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+118.0|Mumba Chipo||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+119.0|Malipilo Jean Abigail||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+120.0|Chola Beauty||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+121.0|Choomba Blessings||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+122.0|Zimba Natasha||Mumbwa|Nangoma|Nakasaka|Maimwer|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+123.0|Mubita Abigail||Mumbwa|Nangoma|Nakasaka|Malombe|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+124.0|Mwape Mercy Kabwe||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+125.0|Chatabankana Blessings||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+126.0|Chingumbe Joana||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+127.0|Kaluwa Maimbo Royce||Mumbwa|Nangoma|Nakasaka|Torno|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+128.0|Esnart Tinobona||Mumbwa|Nangoma|Nakasaka|Torno|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+129.0|Yobe Queen||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+130.0|Kabwe Esther Lisa||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+131.0|Halweendo Liness||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+132.0|Mudenda Mercy||Mumbwa|Nangoma|Nakasaka|Sanje|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+133.0|Sitali Mutukwa||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+134.0|Mwiinga Princess Eva||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+135.0|Musonda Grace Blessin||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+136.0|Esnart Masondo||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+137.0|Cynthia Jere||Mumbwa|Nangoma|Nakasaka|Torno|F||11|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+138.0|Shikabanga Loveness B||Mumbwa|Nangoma|Nakasaka|Sanje|F||11|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+139.0|Mukuli Mary||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+140.0|Mudenda Cindy||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+141.0|Mwambu Mirriam Chip||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+142.0|Sambeya Debrah Tumel||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+143.0|Mboonga Shelly||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+144.0|Jere Memory||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+145.0|Mweene Gracious||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+146.0|Kwala Clara||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+147.0|Mvula Milika||Mumbwa|Nangoma|Nakasaka|Maimwer|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+148.0|Phiri Esther E||Mumbwa|Nangoma|Nakasaka|Maimwer|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+149.0|Nalwamba Vaster Kund||Mumbwa|Nangoma|Nakasaka|Maimwer|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+150.0|Sitabe Briness||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+151.0|Nchima Getrude Rose||Mumbwa|Nangoma|Nakasaka|Torno|F||8|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+152.0|Musaka Kalinda||Mumbwa|Nangoma|Nakasaka|Nambwa|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+153.0|Kongwa Esnart||Mumbwa|Nangoma|Nakasaka|Nambwa|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+154.0|Chingangu Martha||Mumbwa|Nangoma|Nakasaka|Sanje|F||11|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+155.0|Lumamba Melody||Mumbwa|Nangoma|Nakasaka|Sanje|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+156.0|Chansa Betsheba||Mumbwa|Nangoma|Nakasaka|Torno|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+157.0|Muleya Sipo||Mumbwa|Nangoma|Nakasaka|Maimwer|F||8|||Itezhi-Tezhi Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+158.0|Munyumbwe Nongo||Mumbwa|Nangoma|Nakasaka|Maimwer|M||8|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+159.0|Muleta Thandiwe||Mumbwa|Nangoma|Nakasaka|Maimwer|F||8|||Itezhi-Tezhi Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+160.0|Mupondwa Obby||Mumbwa|Nangoma|Nakasaka|Maimwer|M||11|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+161.0|Adam Moono||Mumbwa|Nangoma|Nakasaka|Nakasaka|M||10|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+162.0|Merity Mweemba||Mumbwa|Nangoma|Nakasaka|Nakasaka|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+163.0|Brighton Jones||Mumbwa|Nangoma|Keezwa|Keezwa|M||8|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+164.0|Shikalunga David Eric||Mumbwa|Nangoma|Keezwa|Keezwa|M||10|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+165.0|Mwiinga Choolwe Esther||Mumbwa|Nangoma|Keezwa|Keezwa|F||10|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+166.0|Shiluwe Godfrey||Mumbwa|Nangoma|Keezwa|Keezwa|M||8|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+167.0|Mukubani Amon||Mumbwa|Nangoma|Keezwa|Keezwa|M||10|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+168.0|Miwangu Juliet||Mumbwa|Nangoma|Keezwa|Shachele|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+169.0|Mwiinga Precious||Mumbwa|Nangoma|Chisalu|Chimena|F||G8|||Myooye Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+170.0|Hachilala Luyando||Mumbwa|Nangoma|Chisalu|Malende|F||8|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+171.0|Banda Thomas||Mumbwa|Nangoma|Chisalu|Chisalu|M||10|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+172.0|Katimbe Bibian||Mumbwa|Nangoma|Chisalu|Malende|F||11|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+173.0|Chiyuni Gabriel||Mumbwa|Nangoma|Chisalu|Malende|M||8|||Shakumbila Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+174.0|Ndabala Harwad Mwelv||Mumbwa|Nangoma|Chisalu|Chisalu|M||1|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+175.0|Guta Kesina||Mumbwa|Nangoma|Chisalu|Chisalu|F||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+176.0|Mwandu Joshual Bukate||Mumbwa|Nangoma|Chisalu|Chisalu|M||1|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+177.0|Simbayi Braphy Nsuum||Mumbwa|Nangoma|Chisalu|Chisalu|M||1|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+178.0|Masondo Anety||Mumbwa|Nangoma|Matala|Matala|F||11|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+179.0|Chembe Gladys Twamb||Mumbwa|Nangoma|Matala|Luili|F||1|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+180.0|Moomba Chilima Ashur||Mumbwa|Nangoma|Matala|Matala|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+181.0|Chiyaze Astridah||Mumbwa|Nangoma|Sichanzu|Sichanzu|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+182.0|Hamweemba Dimuna||Mumbwa|Nangoma|Choma|Choma|F||11p|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+183.0|Mukwasho Luyando||Mumbwa|Nangoma|Nangoma|Kasalu|F||10|||Nangoma Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+184.0|Siavwapa Choolwe Nels||Mumbwa|Nangoma|Nangoma|Nangoma|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+185.0|Nsondo Stain||Mumbwa|Nangoma|Choma|Muchabi|M||10|||Mumbwa Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+186.0|Moonga Precious||Mumbwa|Nangoma|Nangoma|Nshangal|F||10|||Sanje Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+187.0|Samulozela Deborah||Mumbwa|Nangoma|Nangoma|Kasulu|F||8|||Kafushi Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries
+188.0|Miti Chikumbutso||Mumbwa|Nangoma|Nangoma|Nshangal|M||8|||Kafushi Secondary School|||cdf_secondary_bursaries_nangoma_2025|2025|secondary_bursaries

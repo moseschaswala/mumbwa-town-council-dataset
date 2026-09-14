@@ -1,0 +1,494 @@
+record_number|pupil_name|province|district|constituency|ward|zone|gender|date_of_birth|grade|grade_started_on_bursary|new_grade_2025|school_name|school_location|status|source_id|year|cdf_category
+1.0|Phiri Gift James||Mumbwa|Mumbwa|Mupona|Welfare|M|27/10/2009|8|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+2.0|Miyanda Lweendo||Mumbwa|Mumbwa|Mupona|Makasa|M|06/10/2007|11|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+3.0|Miyanda Lushomo||Mumbwa|Mumbwa|Mupona|Makasa|M|27/01/2013|9|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+4.0|Mufungulwa Sharon||Mumbwa|Mumbwa|Mupona|Welfare|M|06/09/2012|10|||Nambala Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+5.0|Joel Jabulani Musindo||Mumbwa|Mumbwa|Mupona|Welfare|M|23/06/2009|10|||Nambala Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+6.0|Simbeye Wilson||Mumbwa|Mumbwa|Mupona|Bulungu|M|18/10/2008|10|||Nambala Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+7.0|Kwenisa Grace||Mumbwa|Mumbwa|Mupona|Bulungu|F|24/10/2009|8|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+8.0|Mwanza Roster||Mumbwa|Mumbwa|Mupona|Council Pre School|F|30/06/2006|12|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+9.0|Lubinda Andrew||Mumbwa|Mumbwa|Mupona|Bulungu|M|28/09/2008|8|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+10.0|Stima Elias Themba||Mumbwa|Mumbwa|Mupona|Council Pre School|M|24/10/2006|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+11.0|Hamaleu Juliet||Mumbwa|Mumbwa|Mupona|Welfare|F|28/08/2010|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+12.0|Mutukwa Beatrice Nyambe||Mumbwa|Mumbwa|Mupona|Welfare|F|12/12/2011|8|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+13.0|Kapasa Winnie Lubemba||Mumbwa|Mumbwa|Mupona|Welfare|F|02/03/2009|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+14.0|Mutukwa Ernest||Mumbwa|Mumbwa|Mupona|Welfare|M|07/03/2010|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+15.0|Kabanyana Joyce Kondwani||Mumbwa|Mumbwa|Mupona|Makasa|F|15/08/2006|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+16.0|Shani Pretty||Mumbwa|Mumbwa|Mupona|Makasa|F|01/08/2012|8|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+17.0|Malambo Lucia||Mumbwa|Mumbwa|Mupona|Makasa|F|19/01/2013|8|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+18.0|Namfukwe Edith||Mumbwa|Mumbwa|Mupona|Makasa|F|01/11/2012|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+19.0|Lukoshi Georginah Monica||Mumbwa|Mumbwa|Mupona|Welfare|F|22/11/2009|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+20.0|Mfundi Dennis||Mumbwa|Mumbwa|Mupona|Bulungu|M|04/05/2008|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+21.0|Mwanza Jacob||Mumbwa|Mumbwa|Mupona|Welfare|M|09/11/2009|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+22.0|Biemba Nathan||Mumbwa|Mumbwa|Mupona|Bulungu|M|03/03/2006|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+23.0|Kombe Mirriam||Mumbwa|Mumbwa|Mupona|Makasa|F|12/11/2006|11|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+24.0|Mbewe Jocbrin||Mumbwa|Mumbwa|Mumba|Mumba|M|08/01/2008|10|||Mumbwa Secondary|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+25.0|Enock Shangwa||Mumbwa|Mumbwa|Mupona|Bulungu|M|10/10/2010|11|||Mumbwa Boarding Secondary School|Mumbwa.||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+26.0|Miyoba Noel Mulube||Mumbwa|Mumbwa|Mupona|Council welfare|M|23/06/2009|9|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+27.0|Punny Lutangu Kumwenda||Mumbwa|Mumbwa|Mupona|Bulungu|M|30/05/2002|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+28.0|Abel Zyambo||Mumbwa|Mumbwa|Mupona|Council welfare|M|11/01/2007|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+29.0|Yvonne Mwaambwa||Mumbwa|Mumbwa|Mupona|Makasa|F|18/07/2008|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+30.0|Noel Miyoba||Mumbwa|Mumbwa|Mupona|Bulungu|M|23/06/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+31.0|Joel Mubiana||Mumbwa|Mumbwa|Mupona|Bulungu|M|23/03/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+32.0|Charles Mkhalipi||Mumbwa|Mumbwa|Mupona|Council welfare|M|26/01/2006|1|||Kaoma Provincial Stem Boarding Secondar|Kaoma||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+33.0|Siya Chisela||Mumbwa|Mumbwa|Mupona|Bulungu|F|17/07/2009|11|||Kafushi Boarding Secondary School|Kabwe||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+34.0|Treazer Libongani||Mumbwa|Mumbwa|Mupona|Bulungu|F|03/03/2008|11|||Kafushi Boarding Secondary School|Kabwe||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+35.0|Dalitso Tembo||Mumbwa|Mumbwa|Mupona|Makasa|M|24/11/2007|11|||Kafushi Boarding Secondary School|Kabwe||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+36.0|Morton Hajila||Mumbwa|Mumbwa|Mupona|Makasa|M|25/02/2007|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+37.0|Restoration Makonde||Mumbwa|Mumbwa|Mupona|Bulungu|F|17/10/2008|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+38.0|Agatha Mubiana||Mumbwa|Mumbwa|Mupona|Council Preschool|F|30/01/2012|9|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+39.0|Inonga Tembo||Mumbwa|Mumbwa|Mupona|Bulungu|F|19/01/2012|9|||Kafushi Boarding Secondary School|Kabwe||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+40.0|Lushomo Syakalima||Mumbwa|Mumbwa|Kalwanyembe|Kaindu|M|30/03/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+41.0|John Chiyobe||Mumbwa|Mumbwa|Kalwanyembe|Kaindu|M|16/02/2007|9|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+42.0|Hilary Syakalima||Mumbwa|Mumbwa|Kalwanyembe|Kaindu|M|25/01/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+43.0|Imonda Wamunyima||Mumbwa|Mumbwa|Kalwanyembe|Kitumba|M|24/05/2011|8|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+44.0|Monde Matakala||Mumbwa|Mumbwa|Kalwanyembe|—Kitumba|M|11/02/2009|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+45.0|Siamilimo Verah||Mumbwa|Mumbwa|Kalwanyembe|Kaindu|F|19/02/2007|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+46.0|Rodgers Mainza||Mumbwa|Mumbwa|Kalwanyembe|Kaindu|M|18/08/2008|12|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+47.0|Princess Nyati||Mumbwa|Mumbwa|Kamilambo|Nkulumazhiba|F|11/02/2007|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+48.0|Mercy Cheelo||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|29/09/2006|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+49.0|Stephan Meleki||Mumbwa|Mumbwa|Kamilambo|Kamilambo|M|07/02/2007|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+50.0|Mapesho Bishonga||Mumbwa|Mumbwa|Kamilambo|Kamilambo|M|04/04/2011|8|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+51.0|Redeemer Mutalange||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|25/06/2006|11|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+52.0|Judith Muyunda||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|11/04/2011|8|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+53.0|Abiness Hamalengo||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|22/10/2006|8|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+54.0|Hellen Ngandu||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|30/01/2008|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+55.0|Shelly Sikateyo||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|04/04/2005|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+56.0|Ivy Chuulu||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|10/10/2005|9|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+57.0|Dinnah Mutakula||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|30/06/2006|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+58.0|Josphine Chibawe||Mumbwa|Mumbwa|Kamilambo|Chitanda Lumamba|F|03/02/2007|9|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+59.0|Luwi Chitembu||Mumbwa|Mumbwa|Kamilambo|Nkulumazhiba|F|22/05/2007|8|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+60.0|Lambulila Brendah||Mumbwa|Mumbwa|Kamilambo|Nkulumazhiba|F|26/09/2008|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+61.0|Philip Halumba||Mumbwa|Mumbwa|Kamilambo|Kamilambo|M|01/02/2010|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+62.0|Joe Msiska||Mumbwa|Mumbwa|Mumba|Mumba|M|03/03/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+63.0|Martha Misiska||Mumbwa|Mumbwa|Mumba|Mumba|F|03/03/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+64.0|Clever Mwanamonze||Mumbwa|Mumbwa|Mumba|Kanwazhiba|M|23/02/2007|11|||Kafushi Boarding Secondary School|Kabwe||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+65.0|Tumelo Silume||Mumbwa|Mumbwa|Chibolyo|Chibuluma|M|20/09/2007|11|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+66.0|Jester Zimba||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|12/02/2005|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+67.0|Mary Nakaundu||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|07/10/2008|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+68.0|Chipango Nyambe||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|21/12/2008|8|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+69.0|Prosper Chambwe||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|08/01/2007|11|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+70.0|Serah Kasaya||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|14/10/2008|10|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+71.0|Mukelabai oppie Nanjeke||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|26/08/2008|11|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+72.0|Grace Kayombo||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|20/05/2011|8|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+73.0|Florence Mubanga||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|08/10/2010|8|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+74.0|Felistus Chainda||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|05/08/2010|8|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+75.0|Precious Mabbanti||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|05/01/2005|11|||Chinika Secondary School|Lusaka||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+76.0|Anita Chitifi||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|26/09/2008|8|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+77.0|Mirriam Samba||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|08/04/2004|8|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+78.0|Tracy Muyaba||Mumbwa|Mumbwa|Nalusanga|Nalusanga|F|03/06/2005|12|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+79.0|Junior Marcson Mulonga||Mumbwa|Mumbwa|Mupona|Council welfare|M|21/07/2010|9|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+80.0|Marah Mulonga||Mumbwa|Mumbwa|Mupona|Council welfare|F|05/03/2008|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+81.0|Evelyn Biemba||Mumbwa|Mumbwa|Mupona|Bulungu|F|19/09/2009|11|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+82.0|Faith Mulima Libongani||Mumbwa|Mumbwa|Mupona|Bulungu|F|14/05/2011|8|||Kafushi Boarding Secondary School|Kabwe||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+83.0|Loveness Kimbinyi Nyambe||Mumbwa|Mumbwa|Mupona,|Makasa|F|16/11/2007|11|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+84.0|Ruth Mundia||Mumbwa|Mumbwa|Mupona.|Makasa|F|09/03/2008|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+85.0|Mirriam Lombanya||Mumbwa|Mumbwa|Mupona|Council welfare|F|05/05/2010|10|||Chinsali Girls Secondary School|Chinsali||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+86.0|Hildah Nyirongo||Mumbwa|Mumbwa|Mupona|Makasa|F|24/10/2010|10|||Nalusanga Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+87.0|Choolwe Kalaluka||Mumbwa|Mumbwa|Mupona.|Bulungu|M|28/04/2009|8|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+88.0|Luyando Mpimpa||Mumbwa|Mumbwa|Mupona|Council welfare|F|26/05/2010|8|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+89.0|Den Hakangola||Mumbwa|Mumbwa|Mupona|Council-Preschool|M|02/03/2008|8|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+90.0|Lubona Chaseba||Mumbwa|Mumbwa|Mupona|Council-Preschool|M|26/06/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+91.0|Christabel Mweetwa||Mumbwa|Mumbwa|Mpusu|Mpusu|F|29/05/2001|9|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+92.0|Iven Chinkubala||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|08/10/2006|11|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+93.0|Beauty Chinkubala||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|21/10/2004|11|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+94.0|Joshua Chaala||Mumbwa|Mumbwa|Nambala|Nambala|M|19/09/2009|9|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+95.0|Gift Lungwalo||Mumbwa|Mumbwa|Nambala|Nambala|M|17/04/2006|10|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+96.0|Juliet Dube||Mumbwa|Mumbwa|Nambala|Nambala|F|27/05/2009|9|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+97.0|Hazemba chilala||Mumbwa|Mumbwa|Nambala|Nambala|M|10/03/2006|10|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+98.0|Wilson Busumani||Mumbwa|Mumbwa|Nambala|Nambala|M|02/01/2004|11|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+99.0|Lucky Joshua Silumbwe||Mumbwa|Mumbwa|Nambala|Nambala|M|24/12/2004|11|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+100.0|Tapiwa Tinobona||Mumbwa|Mumbwa|Nambala|Nambala|M|04/12/2009|11|||Myooye Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+101.0|Mweene Ndiza||Mumbwa|Mumbwa|Nalusanga|Kabulwebulwe|F|22/12/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+102.0|Tatila Opa Pauline||Mumbwa|Mumbwa|Nalusanga|Kabulwebulwe|F|02/03/2008|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+103.0|Howard Mwalukwanda||Mumbwa|Mumbwa|Nalusanga|Kabulwebulwe|M|25/11/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+104.0|Gift Chizhika||Mumbwa|Mumbwa|Nalusanga|Kabulwebulwe|M|02/05/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+105.0|Emmanuel Pidolo||Mumbwa|Mumbwa|Nalusanga|Kabulwebulwe|M|28/04/2001|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+106.0|Sainet Chimbala||Mumbwa|Mumbwa|Nalusanga|Kabulwebulwe|M|28/03/2008|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+107.0|Evans Kasalama||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|15/03/2008|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+108.0|Olipah Muntanga||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|16/03/2008|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+109.0|Lubasi Marolon||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|09/01/2011|8|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+110.0|Joshua Chambwe||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|09/01/2011|8|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+111.0|Trinity Chibenda||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|10/10/2009|10|||Myooye Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+112.0|Pastiwer Malende||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|10/04/2009|8|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+113.0|Maureen Kabanze||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|22/03/2008|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+114.0|Patson Nyambe.||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|09/01/2009|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+115.0|Annie Mwansaku||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|14/04/2009|10|||Sanje Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+116.0|Bruce Menda||Mumbwa|Mumbwa|Naluvwi|Sonkwe|M|24/08/2007|8|||Nambala Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+117.0|Grace Mwaambwa||Mumbwa|Mumbwa|Naluvwi|Sonkwe|F|12/08/2009|9|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+118.0|Tabeth Chiboola||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|29/03/2009|10|||Myooye Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+119.0|Edward Silumesi||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|10/01/2010|8|||Myooye Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+120.0|Royce Mazengwe||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|01/01/2010|10|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+121.0|Milumbe Bbuku||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|15/03/2010|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+122.0|Iredy Shimatila||Mumbwa|Mumbwa|Kamilambo|Kamilambo|F|05/07/2007|10|||Nkulumazhiba Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+123.0|Maxwell Hamombe||Mumbwa|Mumbwa|Kamilambo|Kamilambo|M|21/07/2009|9|||Mumbwa Boarding Secondary School|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+124.0|Sianga Gilbert||Mumbwa|Mumbwa|Makebo|Makebo|M|09/10/2010|Form 1|||Mumbwa Secondary school|Mumbwa||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+1.0|Elizabeth Mumba Musuku|||Mumbwa|Nambala||F||9|||Sanje Secondary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+2.0|Mulemba Dipper Kulumbwa|||Mumbwa|Nambala||F||9|||Mululi Primary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+3.0|Regina Mukuni|||Mumbwa|Nambala||F||9|||Mululi Primary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+4.0|Princess Natasha Mpengaula|||Mumbwa|Nambala||F||9|||Mululi Primary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+5.0|Abigail Sikasamba|||Mumbwa|Nambala||F||9|||Mululi Primary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+6.0|Felisters Mulemba|||Mumbwa|Nambala||F||9|||Mululi Primary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+7.0|Elizabeth Sitali|||Mumbwa|Nalusanga||F||8|||Nalusanga Secondary School|Mumbwa|New|cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+1.0|Bettsheba Mwiinga|Central|Mumbwa|Mumbwa|||F|||9|12|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+2.0|Mulyambisi Micheal|Central|Mumbwa|Mumbwa|||M|||8|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+3.0|Melvin Mwiinga|Central|Mumbwa|Mumbwa|||M|||9|12|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+4.0|Christopher Sinamulundu|Central|Mumbwa|Mumbwa|||M|||9|12|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+5.0|Chinubala Mercy|Central|Mumbwa|Mumbwa|||F|||8|11|Kafushi Boarding Sec. School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+6.0|Manandi Josphine Mushee|Central|Mumbwa|Mumbwa|||F|||8|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+7.0|Luyando Patience Phiri|Central|Mumbwa|Mumbwa|||F|||8|11|Nsanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+8.0|Doris Tatila|Central|Mumbwa|Mumbwa|||F|||8|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+9.0|Paul Mundele|Central|Mumbwa|Mumbwa|||F|||8|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+10.0|Constance Mondamali|Central|Mumbwa|Mumbwa|||F|||8|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+11.0|Gracious Chabu|Central|Mumbwa|Mumbwa|||M|||8|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+12.0|Muyooma Mervis|Central|Mumbwa|Mumbwa|||F|||8|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+13.0|Mundele Mooya|Central|Mumbwa|Mumbwa|||M|||8|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+14.0|aingu Humphrey|Central|Mumbwa|Mumbwa|||F|||9|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+15.0|Musulwe Georgina|Central|Mumbwa|Mumbwa|||F|||8|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+16.0|abanze Maureen|Central|Mumbwa|Mumbwa|||F|||9|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+17.0|Nangamba Otis|Central|Mumbwa|Mumbwa|||M|||8|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+18.0|Himoonga Everine|Central|Mumbwa|Mumbwa|||M|||8|11|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+19.0|Mutentanyama Mwiinga|Central|Mumbwa|Mumbwa|||M|||8|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+20.0|Shambana Lydia|Central|Mumbwa|Mumbwa|||F|||9|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+21.0|Nzala Gift|Central|Mumbwa|Mumbwa|||F|||9|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+22.0|Sepiso Assa|Central|Mumbwa|Mumbwa|||F|||9|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+23.0|Mwiinga Vincent|Central|Mumbwa|Mumbwa|||M|||8|11|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+24.0|amilo Sera|Central|Mumbwa|Mumbwa|||F|||8|11|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+25.0|Malata Blessings|Central|Mumbwa|Mumbwa|||F|||9|12|Mumbwa Seconadry|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+26.0|Lillian andongo|Central|Mumbwa|Mumbwa|||F|||9|12|Mumbwa Seconadry|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+27.0|Mboozi Joshua|Central|Mumbwa|Mumbwa|||F|||9|12|Mumbwa Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+28.0|andela Caleb|Central|Mumbwa|Mumbwa|||M|||9|12|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+29.0|abwe Blessings Mapalo|Central|Mumbwa|Mumbwa|||F|||8|11|Myooye Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+30.0|Mzaduri Farai|Central|Mumbwa|Mumbwa|||M|||8|11|Serenje Boys Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+31.0|Miyoba Jonathan|Central|Mumbwa|Mumbwa|||M|||8|11|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+32.0|alalua Hastings|Central|Mumbwa|Mumbwa|||M|||8|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+33.0|Njobvu umbutso|Central|Mumbwa|Mumbwa|||M|||8|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+34.0|Shimulubwa Tamara|Central|Mumbwa|Mumbwa|||F|||8|11|Nio Girls Tech Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+35.0|Mnyati Wisdom|Central|Mumbwa|Mumbwa|||M|||8|11|Mumbwa Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+36.0|Sinjambi Mbiusita|Central|Mumbwa|Mumbwa|||M|||8|14|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+37.0|Simoonga Natalia Luyando|Central|Mumbwa|Mumbwa|||F|||8|11|Chunga Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+38.0|Simweemba Bahati|Central|Mumbwa|Mumbwa|||M|||9|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+39.0|Chiti Esther|Central|Mumbwa|Mumbwa|||F|||9|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+40.0|Chiti Chongo|Central|Mumbwa|Mumbwa|||F|||9|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+41.0|Munachingu Clever|Central|Mumbwa|Mumbwa|||F|||8|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+42.0|Muchawa Cleopatras|Central|Mumbwa|Mumbwa|||F|||9|12|Nulumazhiba Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+43.0|Chibwambwa matron|Central|Mumbwa|Mumbwa|||F|||9|12|Nulumazhiba Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+44.0|Shamaindi Faith|Central|Mumbwa|Mumbwa|||F|||8|10|Chipepo Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+45.0|Chiinda Lontia|Central|Mumbwa|Mumbwa|||F|||8|10|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+46.0|Mwiinga Precious|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+47.0|Astridah Chiyaze|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+48.0|Chiinda Lontia|Central|Mumbwa|Mumbwa|||F|||8|10|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+49.0|Mwiinga Precious|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+50.0|Himweemba Mercy|Central|Mumbwa|Mumbwa|||F|||9|11|Nkulumazhiba Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+51.0|Hatimba Evalyn Habeenzu|Central|Mumbwa|Mumbwa|||F|||9|11|Nkulumazhiba Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+52.0|Muchawa Cleopatras|Central|Mumbwa|Mumbwa|||F|||9|11|Nkulumazhiba Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+53.0|Chibwambwa matron|Central|Mumbwa|Mumbwa|||F|||9|11|Nkulumazhiba Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+54.0|Kandela Caleb|Central|Mumbwa|Mumbwa|||M|||9|11|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+55.0|Kabwe Blessings Mapalo|Central|Mumbwa|Mumbwa|||F|||8|10|Myooye Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+56.0|Mzaduri Farai|Central|Mumbwa|Mumbwa|||M|||8|10|Serenje Boys Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+57.0|Miyoba Jonathan|Central|Mumbwa|Mumbwa|||M|||8|10|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+58.0|Kalaluka Hastings|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+59.0|Njobvu Kumbutso|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+60.0|Shimulubwa Tamara|Central|Mumbwa|Mumbwa|||F|||8|10|Niko Girls Tech Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+61.0|Mnyati Wisdom|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+62.0|Sinjambi Mbikusita|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+63.0|Chiyeze Astridah|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+64.0|Simoonga Natalia Luyando|Central|Mumbwa|Mumbwa|||F|||8|10|Chunga Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+65.0|Simweemba Bahati|Central|Mumbwa|Mumbwa|||M|||9|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+66.0|Chiti Esther|Central|Mumbwa|Mumbwa|||F|||9|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+67.0|Chiti Choongo|Central|Mumbwa|Mumbwa|||F|||9|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+68.0|Munachingu Clever|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+69.0|Munachingu Clever|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+70.0|Simweemba Bahati|Central|Mumbwa|Mumbwa|||M|||9|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+71.0|Chiti Esther|Central|Mumbwa|Mumbwa|||F|||9|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+72.0|Chiti Choongo|Central|Mumbwa|Mumbwa|||F|||9|11|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+73.0|Munachingu Clever|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+74.0|Kalaluka Hastings|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+75.0|Njobvu Kumbutso|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+76.0|Mnyati Wisdom|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+77.0|Sinjambi Mbikusita|Central|Mumbwa|Mumbwa|||M|||8|10|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+78.0|Chiyeze Astridah|Central|Mumbwa|Mumbwa|||F|||8|10|Mumbwa Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+79.0|Kasangabesa Bridget Cecilia|Central|Mumbwa|Mumbwa|||F|||9|11|Mumbwa Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+80.0|Simoonga Natalia Luyando|Central|Mumbwa|Mumbwa|||F|||8|10|Chunga Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+81.0|Kasuba Natali|Central|Mumbwa|Mumbwa|||F|||9|11|Chunga Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+82.0|Kasoka Mirriam|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+83.0|Sibanda Priscovia|Central|Mumbwa|Mumbwa|||F|||10|12|Chipepo Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+84.0|Chocho Tandiwe|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+85.0|Muyatwa Mubiana|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+86.0|Susiku Aron|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+87.0|Kasoka Mirriam|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+88.0|Chocho Tandiwe|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+89.0|Muyatwa Mubiana|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+90.0|Chizebuka Grace|Central|Mumbwa|Mumbwa|||M|||10|12|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+91.0|Nyambe Nyambe|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+92.0|Habula Margret|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+93.0|Kasonkomona Bobley|Central|Mumbwa|Mumbwa|||F|||10|12|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+94.0|Kasalama Fridah|Central|Mumbwa|Mumbwa|||F|||10|12|Myooye Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+95.0|Mweemba Rashford|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+96.0|Chiboola Chilawo Mutonga|Central|Mumbwa|Mumbwa|||F|||10|12|Myooye Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+97.0|Kaingu Humphrey|Central|Mumbwa|Mumbwa|||M|||10|12|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+98.0|Katemba Lilian|Central|Mumbwa|Mumbwa|||F|||10|12|Nambala Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+99.0|Katemba Sheba|Central|Mumbwa|Mumbwa|||F|||10|12|Myooye Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+100.0|Mulonda Justina|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+101.0|Shamaindi Choolwe|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+102.0|Mutelo Maxwell|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+103.0|Kambimbi Paul|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+104.0|Sianga Sandra|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+105.0|Malyambinji Micheal|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+106.0|Mulaisho Agness|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+107.0|Mweemba Ellen|Central|Mumbwa|Mumbwa|||F|||10|12|Chunga Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+108.0|Malemba Mary|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+109.0|Muchimba Twaambo|Central|Mumbwa|Mumbwa|||M|||10|12|Chisamba Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+110.0|Nyemba Milka|Central|Mumbwa|Mumbwa|||F|||10|12|Chisamba Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+111.0|Katiba Sinonge|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+112.0|Shakabala Aggrey|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+113.0|Chinyama Alice|Central|Mumbwa|Mumbwa|||F|||10|12|Sanje Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+114.0|Mwenya Miracle|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+115.0|Mwangala Josephine|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+116.0|Mwenya Miracle|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+117.0|Mwangala Josephine|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+118.0|Nyambe Nyambe|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+119.0|Habula Margret|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+120.0|Mweemba Rashford|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+121.0|Mulonda Justina|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+122.0|Shamaindi Choolwe|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+123.0|Mutelo Maxwell|Central|Mumbwa|Mumbwa|||M|||10|42|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+124.0|Kambimbi Paul|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+125.0|Sianga Sandra|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+126.0|Malyambinji Micheal|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+127.0|Mulaisho Agness|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+128.0|Malemba Mary|Central|Mumbwa|Mumbwa|||F|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+129.0|Katiba Sinonge|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+130.0|Shakabala Aggrey|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Boarding Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+131.0|Hamungala Ancient|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+132.0|Mulenjekwa Kingsley|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+133.0|Winstone Kabuta|Central|Mumbwa|Mumbwa|||M|||10|12|Mumbwa Secondary|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+134.0|Mweemba Ellen|Central|Mumbwa|Mumbwa|||F|||10|12|Chunga Boarding|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+135.0|Chiinda Lontia|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+136.0|Ndoongo Basila|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+137.0|Ngenjo Martha|Central|Mumbwa|Mumbwa|||M|||1|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+138.0|Munu Miriam|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+139.0|Joseph Kahemba Bwalya|Central|Mumbwa|Mumbwa|||M|||11|12|Mwembeshi Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+140.0|Moonga Prudence|Central|Mumbwa|Mumbwa|||F|||411A|12A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+141.0|Malemba Christabel Mainess|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+142.0|Chipumpula Mirriam|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+143.0|Lubbizyo Siamaila|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+144.0|Shimbwanga Diana|Central|Mumbwa|Mumbwa|||F|||11B|12A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+145.0|Sitali Joyce|Central|Mumbwa|Mumbwa|||F|||11B|12A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+146.0|Idah Shazemba|Central|Mumbwa|Mumbwa|||F|||1B|12A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+147.0|Clere Seemani|Central|Mumbwa|Mumbwa|||M|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+148.0|Litongo Albertina Kavwewo|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+149.0|Muyambango Nalishebo Matildah_|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+150.0|Hachimwaya Petra Mudundulu|Central|Mumbwa|Mumbwa|||F|||1|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+151.0|Kapamuke Catherine|Central|Mumbwa|Mumbwa|||F|||8A|9A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+152.0|Munyanga Judith|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+153.0|Mukendwa Esnart|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+154.0|Manyepa Ngonga|Central|Mumbwa|Mumbwa|||M|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+155.0|Mambwe Reginah|Central|Mumbwa|Mumbwa|||M|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+156.0|Shimbau Nelia|Central|Mumbwa|Mumbwa|||F|||8A|9A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+157.0|Chizyuka Liness|Central|Mumbwa|Mumbwa|||F|||9C|10C|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+158.0|Lumbala Chihinga|Central|Mumbwa|Mumbwa|||F|||8B|9B|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+159.0|Munalul Mercy|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+160.0|Katiba Carol|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+161.0|Shimbao Agness|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+162.0|Pumulo Ruth|Central|Mumbwa|Mumbwa|||F|||9A|10A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+163.0|Malisawa Lillian|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+164.0|Kalaluka Celine|Central|Mumbwa|Mumbwa|||F|||8A|9A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+165.0|Siamaundu Prudence|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+166.0|Chinyemba Shallone|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+167.0|Kalasa Anitah|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+168.0|Walubita Maureen|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+169.0|Taonga Tembo|Central|Mumbwa|Mumbwa|||F|||11D|12D|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+170.0|Kabanze Hagai|Central|Mumbwa|Mumbwa|||M|||11|12|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+171.0|Shimane Rosemary|Central|Mumbwa|Mumbwa|||F|||10|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+172.0|Nzala Gift|Central|Mumbwa|Mumbwa|||F|||10|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+173.0|Kalumbu Precious|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+174.0|Malambo Violet|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+175.0|Malambo Rabbeca|Central|Mumbwa|Mumbwa|||F|||1|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+176.0|Hamalambo Ctherine|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+177.0|Ngandu Stella|Central|Mumbwa|Mumbwa|||F|||11|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+178.0|Habwanda Jackline|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+179.0|Bbenkele Christine|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+180.0|Mutamira Matildah|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+181.0|Luunzwe Tabita|Central|Mumbwa|Mumbwa|||F|||1|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+182.0|Grace Hamweemba|Central|Mumbwa|Mumbwa|||F|||9|10|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+183.0|Malambo Lillian|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+184.0|Muchawa Charity|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+185.0|Habwanda Natasha|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+186.0|Hamaamba Ireen Mainza|Central|Mumbwa|Mumbwa|||F|||11|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+187.0|Maselina Ndoongo|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+188.0|Grace Mabesa|Central|Mumbwa|Mumbwa|||F|||11|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+189.0|Martha Namukombo|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+190.0|Munyimba Blessing|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+191.0|Chindalo Loveness|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+192.0|Chuuka Beatrice|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+193.0|Mwaambwa Elinah|Central|Mumbwa|Mumbwa|||F|||1|12|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+194.0|Kapilipili Beatrice|Central|Mumbwa|Mumbwa|||F|||ECE|ECE|Nanga Spacia School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+195.0|Lombanya Moses|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+196.0|Munachilimba Bridget|Central|Mumbwa|Mumbwa|||F|||10.00|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+197.0|Habula Magret|Central|Mumbwa|Mumbwa|||F|||10.00|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+198.0|Chikopa Euphrecia|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+199.0|Thelma Muduwa|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+200.0|Anna Mambwe|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+201.0|Naomi Nachinga|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+202.0|Mwalye Mutai|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+203.0|Anna Kapalu|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+204.0|Justinah Tolupo|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+205.0|Elizabeth Senita Mulusa|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+206.0|Felistus Namibabo Mwangala|Central|Mumbwa|Mumbwa|||F|||1|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+207.0|Beatrice Katanya|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+208.0|Febby Hamuwamba|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+209.0|Wendy Shembao|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+210.0|Lizzy Matapula|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+211.0|Febby Chinyemba|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+212.0|Malishoze Shamilimo|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+213.0|Josphine Chiwaya|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+214.0|Merity Minimba|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+215.0|Nakubiana Libati|Central|Mumbwa|Mumbwa|||F|||1|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+216.0|Precious Kapalu|Central|Mumbwa|Mumbwa|||F|||14|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+217.0|Lydia Tebe|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+218.0|Getrude Musona|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+219.0|Mukwakwa Davies|Central|Mumbwa|Mumbwa|||M|||1|2|Ndola Lions School for the Visually Imp|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+220.0|Mvula Brenda|Central|Mumbwa|Mumbwa|||F|||8M1|9M1|Mwembeshi Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+221.0|Anita Miyoba|Central|Mumbwa|Mumbwa|||F|||9|10|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+222.0|Beatrice Mukubwa|Central|Mumbwa|Mumbwa|||F|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+223.0|Esivah Mutukula|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+224.0|Kanini Constatnce|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+225.0|Simpemba Hope Taizya|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+226.0|Emmanuel Kabuta|Central|Mumbwa|Mumbwa|||M|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+227.0|Mamgwato Joseph|Central|Mumbwa|Mumbwa|||M|||8|9|Luangwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+228.0|Mangwatu Peter|Central|Mumbwa|Mumbwa|||M|||8|9|Luangwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+229.0|Masapi Gift|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+230.0|Ruth Kanyama|Central|Mumbwa|Mumbwa|||F|||11|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+231.0|Maxwell Muyuni|Central|Mumbwa|Mumbwa|||M|||1|12|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+232.0|Mwanankunku Salomi|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+233.0|Siadunka Geofrey Sinde|Central|Mumbwa|Mumbwa|||M|||8|9|Chunga Boarding School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+234.0|Moonga Mainza|Central|Mumbwa|Mumbwa|||F|||8|9|Chunga Boarding School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+235.0|Chimwemwe Amos Mapala|Central|Mumbwa|Mumbwa|||M|||11|12|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+236.0|Muteka Exildah|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+237.0|Mukabwizu Petronella|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+238.0|Phiri Rosemary|Central|Mumbwa|Mumbwa|||F|||8|9|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+239.0|Shimumba Mike|Central|Mumbwa|Mumbwa|||M|||7|8|Senanga School for Deaf|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+240.0|Rhodah Mang'watu|Central|Mumbwa|Mumbwa|||F|||9|10|Luangwa Boarding Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+241.0|Lucia Mawere|Central|Mumbwa|Mumbwa|||F|||8|9|Chunga Boarding School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+242.0|Mary Hanyemu|Central|Mumbwa|Mumbwa|||M|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+243.0|Biemba Veronica|Central|Mumbwa|Mumbwa|||F|||8|9|Chunga Boarding School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+244.0|Kapalu Victor|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+245.0|Mapili Christine|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+246.0|Nyirongo Favour Tabiya|Central|Mumbwa|Mumbwa|||F|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+247.0|Libongani Given|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+248.0|Phiri Chilufya Delphine|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+249.0|Mweemba Ellen|Central|Mumbwa|Mumbwa|||F|||10|11|Sanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+250.0|Jeniffer Kabwe Kaunda|Central|Mumbwa|Mumbwa|||F|||8|9|Sanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+251.0|Kalalauka Tabo|Central|Mumbwa|Mumbwa||||||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+252.0|Lyambai Alice|Central|Mumbwa|Mumbwa|||F|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+253.0|Cazia Kapalasa|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+254.0|Olivet Mapulanga|Central|Mumbwa|Mumbwa|||F|||9|10|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+255.0|Mumba Blessings Olipa|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+256.0|Shaluvuna Hellen Namunza|Central|Mumbwa|Mumbwa|||F|||10|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+257.0|Lubasi Rose|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+258.0|Sinkombo Maureen|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+259.0|Sakufela Monde|Central|Mumbwa|Mumbwa|||M|||8|9|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+260.0|Kayoba Brian Lweendo|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+261.0|Limbambala Maliwa|Central|Mumbwa|Mumbwa|||F|||10|11|Sanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+262.0|Handiya Chiindi|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+263.0|Previous Kaniki Chabafimbi|Central|Mumbwa|Mumbwa|||F|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+264.0|Luyanda Sambeya|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+265.0|Hachitema Chipego Mutinta|Central|Mumbwa|Mumbwa|||F|||8|9|Sanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+266.0|Muyunda Inonge|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+267.0|Rapheal Mumba|Central|Mumbwa|Mumbwa|||M|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+268.0|Mumba Chanda Grace|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+269.0|Nawa Katibu Grecious|Central|Mumbwa|Mumbwa|||F|||10|11|Sanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+270.0|Yolanda Kapala|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+271.0|Mwaba Steve Daniels|Central|Mumbwa|Mumbwa|||M|||9|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+272.0|Chiinda Naomi|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+273.0|Ndeya Gift Kazungo|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+274.0|Destine Mbewe|Central|Mumbwa|Mumbwa|||F|||10|11|Sanje Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+275.0|Munyindei Anthony|Central|Mumbwa|Mumbwa|||M|||8|9|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+276.0|Phales Muchuna|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+277.0|Chiinda Lontia|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+278.0|Ndoongo Basila|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+279.0|Ngenjo Martha|Central|Mumbwa|Mumbwa|||M|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+280.0|Munu Mirriam|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+281.0|Joseph Kahemba Bwalya|Central|Mumbwa|Mumbwa|||M|||1|12|Mwembeshi Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+282.0|Moonga Prudence|Central|Mumbwa|Mumbwa|||F|||11A|12A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+283.0|Malemba Christabel Mainess|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+284.0|Chipumpula Mirriam|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+285.0|Lubbizyo Siamaila|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+286.0|Shimbwanga Diana|Central|Mumbwa|Mumbwa|||F|||11B|12B|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+287.0|Sitali Joyce|Central|Mumbwa|Mumbwa|||F|||11B|12B|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+288.0|Idah Shazemba|Central|Mumbwa|Mumbwa|||F|||11B|12B|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+289.0|Clere Seemani|Central|Mumbwa|Mumbwa|||M|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+290.0|Litongo Albertina Kavwewo|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+291.0|Muyambango Nalishebo Matildah|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+292.0|Hachimwaya Petra Mudundulu —|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+293.0|Kapamuke Catherine|Central|Mumbwa|Mumbwa|||F|||8A|9A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+294.0|Munyanga Judith|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+295.0|Mukendwa Esnart|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+296.0|Manyepa Ngonga|Central|Mumbwa|Mumbwa|||M|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+297.0|Mambwe Reginah|Central|Mumbwa|Mumbwa|||M|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+298.0|Shimbau Nelia|Central|Mumbwa|Mumbwa|||F|||8A|9A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+299.0|Chizyuka Liness|Central|Mumbwa|Mumbwa|||F|||9C|9C|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+300.0|Lumbala Chihinga|Central|Mumbwa|Mumbwa|||F|||8B|9B|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+301.0|Munalul Mercy|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+302.0|Katiba Carol|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+303.0|Shimbao Agness|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+304.0|Pumulo Ruth|Central|Mumbwa|Mumbwa|||F|||9A|10A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+305.0|Malisawa Lillian|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+306.0|Kalaluka Celine|Central|Mumbwa|Mumbwa|||F|||8A|9A|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+307.0|Siamaundu Prudence|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+308.0|Chinyemba Shallone|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+309.0|Kalasa Anitah|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+310.0|Walubita Maureen|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+311.0|Taonga Tembo|Central|Mumbwa|Mumbwa|||F|||11D|12D|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+312.0|Kabanze Hagai|Central|Mumbwa|Mumbwa|||M|||11|11|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+313.0|Shimane Rosemary|Central|Mumbwa|Mumbwa|||F|||10|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+314.0|Nzala Gift|Central|Mumbwa|Mumbwa|||F|||10|11|Nambala Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+315.0|Kalumbu Precious|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+316.0|Malambo Violet|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+317.0|Malambo Rabbeca|Central|Mumbwa|Mumbwa|||F|||11|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+318.0|Hamalambo Ctherine|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+319.0|Ngandu Stella|Central|Mumbwa|Mumbwa|||F|||1|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+320.0|Habwanda Jackline|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+321.0|Bbenkele Christine|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+322.0|Mutamira Matildah|Central|Mumbwa|Mumbwa|||F|||8|9|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+323.0|Luunzwe Tabita|Central|Mumbwa|Mumbwa|||F|||11|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+324.0|Grace Hamweemba|Central|Mumbwa|Mumbwa|||F|||9|10|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+325.0|Malambo Lillian|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+326.0|Muchawa Charity|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+327.0|Habwanda Natasha|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+328.0|Hamaamba Ireen Mainza|Central|Mumbwa|Mumbwa|||F|||11|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+329.0|Maselina Ndoongo|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+330.0|Grace Mabesa|Central|Mumbwa|Mumbwa|||F|||1|12|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+331.0|Martha Namukombo|Central|Mumbwa|Mumbwa|||F|||10|41|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+332.0|Munyimba Blessing|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+333.0|Chindalo Loveness|Central|Mumbwa|Mumbwa|||F|||10|11|Nkulumazhiba Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+334.0|Chuuka Beatrice|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+335.0|Mwaambwa Elinah|Central|Mumbwa|Mumbwa|||F|||11|12|Myooye Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+336.0|Kapilipili Beatrice|Central|Mumbwa|Mumbwa|||F|||ECE|ECE|Nanga Spacia School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+337.0|Lombanya Moses|Central|Mumbwa|Mumbwa|||M|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+338.0|Munachilimba Bridget|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+339.0|Habula Magret|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+340.0|Chikopa Euphrecia|Central|Mumbwa|Mumbwa|||F|||10|11|Mumbwa Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+341.0|Thelma Muduwa|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+342.0|Anna Mambwe|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+343.0|Naomi Nachinga|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+344.0|Mwalye Mutai|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+345.0|Anna Kapalu|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+346.0|Justinah Tolupo|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+347.0|Elizabeth Senita Mulusa|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+348.0|Felistus NamitaboMwangala|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+349.0|Beatrice Katanya|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+350.0|Febby Hamuwamba|Central|Mumbwa|Mumbwa|||F|||9|10|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+351.0|Wendy Shembao|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+352.0|Lizzy Matapula|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+353.0|Febby Chinyemba|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+354.0|Malishoze Shamilimo|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+355.0|Josphine Chiwaya|Central|Mumbwa|Mumbwa|||F|||8|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+356.0|Merity Minimba|Central|Mumbwa|Mumbwa|||F|||10|11|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+357.0|Nakubiana Libati|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+358.0|Precious Kapalu|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+359.0|Lydia Tebe|Central|Mumbwa|Mumbwa|||F|||9|9|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+360.0|Getrude Musona|Central|Mumbwa|Mumbwa|||F|||11|12|Nalusanga Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+361.0|Mukwakwa Davies|Central|Mumbwa|Mumbwa|||M|||1|2|Ndola Lions School for the Visually Impaired|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries
+362.0|Mvula Brenda|Central|Mumbwa|Mumbwa|||F|||11|12|Mwembeshi Secondary School|||cdf_secondary_bursaries_mumbwa_2025|2025|secondary_bursaries

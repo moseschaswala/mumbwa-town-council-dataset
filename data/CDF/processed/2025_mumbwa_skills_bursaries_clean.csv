@@ -1,0 +1,400 @@
+record_number|student_name|nrc_no|province|district|constituency|ward|zone|gender|course_or_skill|skill_level|programme_duration|institution|source_id|year|cdf_category
+1|Suwilanji Phiri|||Mumbwa|Mumbwa|Mupona|Council P:|F|Food and Nutrition|Diploma|36 Months|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+2|Malambo Fenny Fatima|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Aeronautical Electronics Engineering|Diploma|36 Months|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+3|Abigail Mukobeko|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Computer Studies|Certificate|12 Months|Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+4|Memory Mukandawire|||Mumbwa|Mumbwa|Mupona|Bulungu|F|General Agriculture|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+5|Jimmy Kafwabwe|||Mumbwa|Mumbwa|Mupona|Bulungu|M|General Agriculture|Certificate|12 Months|Hope College of Education|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+6|Tanita Munyinda|||Mumbwa|Mumbwa|Mupona|Council P:|F|Food Production|Certificate|12 Months|Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+7|Machila Mutinta Milambo|||Mumbwa|Mumbwa|Mupona|Council w|F|General Agriculture|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+8|Luka Kambimbi|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Automachenics|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+9|Chanda Musanda Rose|||Mumbwa|Mumbwa|Mupona|Bulungu|F|General Agriculture|Certificate|12 Months|Hope College of Education|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+10|Kanyata Purity|||Mumbwa|Mumbwa|Mupona|Council w|F|Fashion Design and Textile Technology|Certificate|12 Months|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+11|Charity Mubita|||Mumbwa|Mumbwa|Mupona|Bulungu|F|General Agriculture|Certificate|24 Months|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+12|Chinga Sibita|||Mumbwa|Mumbwa|Mupona|Council w|F|Food Production|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+13|Kahyata Misheck|||Mumbwa|Mumbwa|Mupona|Council w|M|Auto Mechanics|Certificate|12 Months|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+14|Muita Stanley|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Bricklaying and Plastering|Certificate|12 Months|Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+15|Namushi Chepeshi|||Mumbwa|Mumbwa|Mupona|Council w|M|Diploma in Heavy Equipment Repair|Diploma|36 Months|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+16|Chaliko Phales|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Electrical Engineering|Certificate|24 Months|Luanshya Technical and Business College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+17|Wachila Benzu|||Mumbwa|Mumbwa|Mupona|Bulungu|F|General Agriculture|Certificate|12 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+18|Silumesii Bruce|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Automotive Engineering|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+19|Kapula Rehema Joyce|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Computer Studies|Certificate|6 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+20|Sharon Sichima|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Computer Studies|Certificate|6 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+21|Muyunda Ackim|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Heavy Equipment Repair|Diploma|36 Months|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+22|Munyemi Inonge|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Food Production|Certificate|3 Months|Handsworth Institute of Health Sciences and Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+23|Lungu Miyanda Oneal|||Mumbwa|Mumbwa|Mupona|Council|M|Heavy Equipment Repair|Certificate|12 Months|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+24|Amos Jani|||Mumbwa|Mumbwa|Mupona|Council|M|Diploma in Heavy Equipment Repair|Diploma|36 Months|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+25|Chijikwa Fridah|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Computer Studies|Certificate|12 Months|Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+26|Shamilimo Catherine|||Mumbwa|Mumbwa|Mupona|Council w|F|Food Production|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+27|Misheck Chirwa|||Mumbwa|Mumbwa|Mupona|Council w|M|Diploma in Heavy Equipment Engineering|Diploma|36 Months|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+28|Namasiku Lisa|||Mumbwa|Mumbwa|Mupona|Council w|F|Food Production|Diploma|12 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+29|Francis Mubita Wamundila|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Power Electrical|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+30|Kunda Lucia|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Food Production|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+31|Sililo Esther|||Mumbwa|Mumbwa|Mupona|Council w|F|Fashion Design and Textile Technology||12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+32|Shamongs Saviour|||Mumbwa|Mumbwa|Mupona|Council|M|Electrical Engineering|Certificate|24 Months|Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+33|Munalula Tumelo|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Food Production|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+34|Atteria Tembo|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Electrical|Certificate|12 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+35|Misheck Zulu|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Automotive Engineering|Certificate|12 Months|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+36|Kipatela Emmanuel Mathias|||Mumbwa|Mumbwa|Mupona|Council P:|M|Class C1 Driving|Certificate|30 Days|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+37|Kaponda Margret|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Food Production|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+38|Kapui Musheshe|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Class C1 Driving|Certificate|30Days|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+39|Linyandile Dickla|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Power Electrical|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+40|Chamasonde Stella|||Mumbwa|Mumbwa|Mupona|Council P:|F|Food Production|Certificate|12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+41|Naomi Chipeta|||Mumbwa|Mumbwa|Mupona|Council w|F|Fashion Design and Textile Technology||12 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+42|Moses Sichula|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Driving and basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+43|Levy Silwamba|||Mumbwa|Mumbwa|Mupona|Council|M|Excavator|Certificate|3 Months|Proxy College of Hospitality and Petroluem|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+44|Shangala Nassar|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Heavy Equipment Repair|Diploma|3 Years 3 Mc|Northern Technical College Management board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+45|Fanny Mulunda|||Mumbwa|Mumbwa|Mupona|Bulungu|F|Food Production|Certificate|1 Year|Rockview University|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+46|Ginyani Evans|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Driving and basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+47|Mulamata Thomson|||Mumbwa|Mumbwa|Mupona|Bulungu|M|Heavy Duty Machine Operator|Certificate|1 Year|Rockview University|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+48|Muchiliba Sante|||Mumbwa|Mumbwa|Kalwanye|Kalwanye|M|Computer Studies|Certificate|6 Months|= Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+49|Andrew Chembe|||Mumbwa|Mumbwa|Kalwanye|Kalwanye|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+50|Bowas Muchiliba|||Mumbwa|Mumbwa|Kalwanye|Kalwanye|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+51|Mambwe Chola|||Mumbwa|Mumbwa|Kalwanye|Kalwanye|M|Electrical Engineering|Diploma|3 Years|Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+52|Cheelo Marth|||Mumbwa|Mumbwa|Kalwanye|Miyumbe|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+53|Jevia Siamilimo|||Mumbwa|Mumbwa|Kalwanye|Kafwikam|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+54|Nsama Frank|||Mumbwa|Mumbwa|Kalwanye|Kafwikam|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+55|Muumba Exildar|||Mumbwa|Mumbwa|Kalwanye|Miyumbe|F|Fashion Design and Textile Technology|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+56|Sitali Migo|||Mumbwa|Mumbwa|Kalwanye|Kaindu|M|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+57|Zimba Undani|||Mumbwa|Mumbwa|Kalwanye||M|Electrical Engineering|Certificate|2 Years|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+58|Nyundu Saviour|||Mumbwa|Mumbwa|Kalwanye|Miyumbe|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+59|Nshingo Boston|||Mumbwa|Mumbwa|Kalwanye|Miyumbe|M|Carpentry and Joinery|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+60|Njekwa Muzwamasimu|||Mumbwa|Mumbwa|Kalwanye|Kaindu|F|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+61|Malama Kabamba|||Mumbwa|Mumbwa|Kalwanye|Kafwikam|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+62|Mfula Thomas|||Mumbwa|Mumbwa|Kalwanye|Kafwikam|M|Computer Studies|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+63|Goddie Sakwanda|||Mumbwa|Mumbwa|Kalwanye|Kafwikam|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+64|Nesta Kunda|||Mumbwa|Mumbwa|Kalwanye|Kafwikam|M|General Agriculture|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+65|Agness Mutelo|||Mumbwa|Mumbwa|Chibolyo|Nakanjoli|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+66|Mukweemba Hambaya|||Mumbwa|Mumbwa|Chibolyo|Chibulum.M||General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+67|Tabbiath Chibwe|||Mumbwa|Mumbwa|Chibolyo|Nakanjoli|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+68|Vanny Hakadyomba Mweemba|||Mumbwa|Mumbwa|Chibolyo|Moobe|M|General Agriculture|Certificate|3 Years|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+69|David Lunyemu|||Mumbwa|Mumbwa|Chibolyo|Chibulum:M||Backhoe Loader Training|Certificate|3 Months|Proxy College of Hospitality and Petroluem|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+70|Humphrey Nguni|||Mumbwa|Mumbwa|Chibolyo|Moobe|M|General Agriculture|Certificate|1 Year|Phoenix Research Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+71|Bridget Kabwe|||Mumbwa|Mumbwa|Chibolyo|Moobe|F|Cosmetology|Certificate|1 Year|Everlyn Hone College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+72|Aubrey Chibuluma|||Mumbwa|Mumbwa|Chibolyo|Chibulum:M||Driving and Basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+73|Evaristo Mubbunu|||Mumbwa|Mumbwa|Chibolyo|Moobe|M|General Agriculture|Certificate|1 Year|Phoenix Research Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+74|Bosco Habowa|||Mumbwa|Mumbwa|Chibolyo|Kabalwa|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+75|Enock Moono|||Mumbwa|Mumbwa|Chibolyo|Nakanjoli|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+76|Joy Hangoma|||Mumbwa|Mumbwa|Chibolyo|Chibulum:|F|Cosmetology and Hair Dressing|Certificate|1 Month|Handsworth Institute of Health Sciences and Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+77|Rabbeca Namate Simbimbi|||Mumbwa|Mumbwa|Chibolyo|Chibulum:|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+78|Mike Moyo|||Mumbwa|Mumbwa|Chibolyo|Kalunzyu|M|Bricklaying and Plastering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+79|Eunirian Mabeta|||Mumbwa|Mumbwa|Chibolyo|Nakanjoli|F|Fashion Design and Textile Technology|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+80|Paul Hachaba|||Mumbwa|Mumbwa|Chibolyo|Nakanjoli|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+81|Alex Dimuna|||Mumbwa|Mumbwa|Chibolyo|Chibulum:M||Excavator|Certificate|4 weeks|Grand Training Company Limited|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+82|John Munyati|||Mumbwa|Mumbwa|Chibolyo|Nakanjoli|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+83|Ishmaili Choongo Mwanachingv|||Mumbwa|Mumbwa|Chibolyo|Kalunzyu|M|Bricklaying and Plastering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+84|Anderson Mweemba|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Driving and basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+85|James Banda|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Computer Studies|Certificate|6 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+86|Gershom Lukama|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Front End Loader|Certificate|1 Month|Camco college|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+87|Jesca Lukombo|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Computer Studies|Certificate|6 Months|Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+88|Diana Kalima Njobvu|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+89|Gift Chiwala|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Plumbing and Sheetmetal Craft|Certificate|1 Year|‘Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+90|Lizyelo Ninde|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Automotive Mechanics|Certificate|2 Years|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+91|Peter Chabala|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Front End Loader|Certificate|1 Month|Camco College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+92|Winster Chipako Chunga|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Electrical Engineering|Diploma|3 Years|Luanshya Technical and Business College Mangement Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+93|Sekai Muziba|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|F|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+94|Kaulu Mununga|||Mumbwa|Mumbwa|Shimbizhi|Malombe|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+95|Precious Mumbulu|||Mumbwa|Mumbwa|Shimbizhi|Shiwezwa|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+96|Astridah Chitunami|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|F|Food Production|Certificate|1 Year|Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+97|Reward Chizyuka|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+98|Salome Kanema|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|F|General Agriculture|Diploma|3 Years|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+99|Steward Munthali|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Automotive Electrical|Diploma|3 Years|Northern Technical College Management board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+100|Biemba Philip|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Tipper Truck Training Course|Certificate|1 Month|Camco College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+101|Benson Kilemba|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Metal Fabrication|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+102|Micheal Mulemena|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Driving and Basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+103|Andson Mulemena|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Driving and basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+104|Anna Mukakandabantu|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|F|Food Production|Certificate|1 Year|Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+105|Peter Chabala|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Front End Loader|Certificate|1 Month|Camco College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+106|Doreen Shibuyunji|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|F|Food Production|Certificate|1 Year|Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+107|James Mulemena|||Mumbwa|Mumbwa|Shimbizhi|Shimbizhi|M|Driving and Basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+108|Karen Nakaoma|||Mumbwa|Mumbwa||Kabulweb|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+109|Richard Sitwala|||Mumbwa|Mumbwa|Nalusang:|Lukanga|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+110|Asaph Chali|||Mumbwa|Mumbwa|Nalusangz|Lukanga|M|Solar Installation|Certificate|1 Month|Fountain Gate Crafts & Trades|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+111|Given Manyando Musiyalike|||Mumbwa|Mumbwa|Nalusange|Nalusange|M|Driving and Basic Mechanics|Certificate|3 Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+112|Richmond Kamoso|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+113|steven Ngulube|||Mumbwa|Mumbwa||Kabulweb|M|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+114|Blessed Habukoko|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+115|Mweemba Samson|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|Carpentry and Joinery|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+116|Makai muhehe|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+117|Nduba Rose|||Mumbwa|Mumbwa|Nalusange|Kabulweb|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+118|Chumbu Trouble|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+119|Rabecca Ntala|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|F|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+120|Austen Nkweemwa|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|Solar Installation|Certificate|1 Month|Fountain Gate Crafts & Trades|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+121|Lotti Mulende|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+122|Siloka Donald|||Mumbwa|Mumbwa|Nalusangz|Nalusange|M|Electrical Technology|Certificate|2 Years|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+123|Erick Mwiinga|||Mumbwa|Mumbwa|Nalusang:|Nalusange|M|Food Production|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+124|Adam Batala|||Mumbwa|Mumbwa|Nalusange|Nalusange|M|Computer Studies|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+125|Walker Mujala|||Mumbwa|Mumbwa|Nalusang:|Kapepe|M|Automechanics|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+126|Felisters Chibwantu|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|F|Fashion Design and Textile Technology||Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+127|Mighty Mumeka|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|F|General Agriculture|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+128|Rona Kabanza|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+129|Nasilele Nalishebo|||Mumbwa|Mumbwa|Nalusangz|Kabulweb|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+130|Sandra Bisoni|||Mumbwa|Mumbwa|Nalusangé|Nalusange|F|General Agriculture|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+131|Dorcas Musole|||Mumbwa|Mumbwa|Nalusang¢|Nalusangz|F|Computer Studies|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+132|Joyce Mumpande|||Mumbwa|Mumbwa|Nalusang:|Nalusange|F|Computer Studies|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+133|Namushi Liswaniso|||Mumbwa|Mumbwa||Nalusangz|F|Fashion Design and Textile Technology||1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+134|Purity Mukanda|||Mumbwa|Mumbwa|Nalusang:|Nalusange|F|Carpentry and Joinery|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+135|Deophister kabumbwe|||Mumbwa|Mumbwa|Nalusang:|Nalusangg|F|Automechanics|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+136|Wilson Chitalu|||Mumbwa|Mumbwa|Nalusangz|Nalusange|M|General Agriculture|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+137|Joseph Malupande|||Mumbwa|Mumbwa|Nalusang:|Nalusange|M|Automechanics|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+138|Grace Kalimukwa|||Mumbwa|Mumbwa|Nalusang:|Kapepe|F|Fashion Design and Textile Technology||1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+139|Anna Kapalu|||Mumbwa|Mumbwa|Nalusang¢|Nalusangg|F|Computer Studies|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+140|Mabvuto Bulawayo|||Mumbwa|Mumbwa|Nalusang:|Nalusange|M|Computer Studies|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+141|Kelvin Bisoni Tiango|||Mumbwa|Mumbwa|Nalusang¢||M|Electrical Technology|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+142|Bertha Siakabbila|||Mumbwa|Mumbwa|Makebo|Kabwang;|F|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+143|Charity Kabwe|||Mumbwa|Mumbwa|Makebo|Kabwang;|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+144|Loisa Shantolo|||Mumbwa|Mumbwa|Makebo|Kabwang;|F|Class C1 Driving|Certificate|30 Days|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+145|Henry Kachepa|||Mumbwa|Mumbwa|Makebo|Kabwang:|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+146|Ruth Cheso|||Mumbwa|Mumbwa|Makebo|Kabwang:|F|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+147|Prudence Mutoba|||Mumbwa|Mumbwa|Makebo|Mukanda|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+148|Lindiwe Nyoni|||Mumbwa|Mumbwa|Makebo|Kabwang:|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+149|Alice Kaputula|||Mumbwa|Mumbwa|Makebo|Kabwang:|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+150|Cosmias Kabwe|||Mumbwa|Mumbwa|Makebo|Kabwang:|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+151|Febby Senda|||Mumbwa|Mumbwa|Makebo|Kabwang:|F|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+152|Anna Chirwa|||Mumbwa|Mumbwa|Makebo|Kabwang:|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+153|Agness Chitambala|||Mumbwa|Mumbwa|Makebo|Kashinka|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+154|Simon Kasongo|||Mumbwa|Mumbwa|Makebo|Mukanda|M|Fashion Design and Textile Technology||1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+155|Mathias Nshimbi|||Mumbwa|Mumbwa|Makebo|Kabwang:|M|Computer Studies|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+156|Precious Hamunkoyo|||Mumbwa|Mumbwa|Makebo|Kabwang;|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+157|Henry Muchimba|||Mumbwa|Mumbwa|Makebo|Kabwang:|M|Fashion Design and Textile Technology|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+158|Doris Mulendema|||Mumbwa|Mumbwa|Makebo|Kabwang;|F|Fashion Design and Textile Technology|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+159|Lawrence Takuli|||Mumbwa|Mumbwa|Makebo|Kabwang:|M|Computer Studies|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+160|Moris Banda|||Mumbwa|Mumbwa|Makebo|Muleke|M|Metal Fabrication|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+161|Melody Pikani|||Mumbwa|Mumbwa|Makebo|Muleke|F|Fashion Design and Textile Technology|Certificate|1 Year|Kaoma Trades Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+162|Vincent Shakwenda|||Mumbwa|Mumbwa|Makebo|Kashinka|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+163|Mike Kasosa|||Mumbwa|Mumbwa|Makebo|Kabwang:|M|Carpentry and Joinery|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+164|Dickson Chisumpa|||Mumbwa|Mumbwa|Mumba|Kanwazhi|M|Electrical Engineering|Certificate|1 Year|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+165|Patrick Chombolola|||Mumbwa|Mumbwa|Mumba|Mumba|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+166|Meleby Chipesha|||Mumbwa|Mumbwa|Mumba|Mumba|F|Fashion Design and Textile Technology|Diploma|3 Years|Evelyn Hone College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+167|Alex Mapulanga|||Mumbwa|Mumbwa|Mumba|Moomba|M|Bricklaying|Certificate|1 Year|Destiny Education Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+168|Felx Shiyanda|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+169|Mawaya Chola|||Mumbwa|Mumbwa|Mumba|Kananzhil|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+170|Edmore Mzelenge|||Mumbwa|Mumbwa|Mumba|Mumba|M|Driving|Certificate|1 Month|Sajor Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+171|Agness Chikondo|||Mumbwa|Mumbwa|Mumba|Kandesha|F|Food Production|Certificate|1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+172|Vernon Luneta|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+173|Danny Chirwa|||Mumbwa|Mumbwa|Mumba|Mumba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+174|Esau Chikalwa|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+175|James Chingubo|||Mumbwa|Mumbwa|Mumba|Mumba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+176|Enock Munyenga|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+177|Maxwell Chirwa|||Mumbwa|Mumbwa|Mumba|Mumba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+178|Haggai Lukunko|||Mumbwa|Mumbwa|Mumba|Moomba|M|Electrical|Certificate|1 Year|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+179|Redson Chikalwa|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|1 Months|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+180|Patson Moomba|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+181|Ackim Shiyanda|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+182|Rolings Mambwe|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+183|Fordson Munyenga|||Mumbwa|Mumbwa|Mumba|Moomba|M|Driving|Certificate|Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+184|Stephen Nguni|||Mumbwa|Mumbwa||Kanwazhi|M|Excavator|Certificate|8 Weeks|Kitwe Vocational Training Centre Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+185|Grace Mwafiulilwa|||Mumbwa|Mumbwa|Mumba|Mumba|F|General Agriculture|Diploma|Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+186|Stepless Hanzila|||Mumbwa|Mumbwa|Mumba|Mumba|M|Heavy Equipment Repair|Certificate|1 Year|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+187|Blessing Chanda|||Mumbwa|Mumbwa|Mumba|Chibila|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+188|Suwa Hamasiku|||Mumbwa|Mumbwa|Mumba|Chibila|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+189|Milven Katyamba|||Mumbwa|Mumbwa|Mumba|Mumba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+190|Vernon Chiwala|||Mumbwa|Mumbwa|Mumba|Chibila|M|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+191|Katyamba Malambo|||Mumbwa|Mumbwa|Mumba|Mumba|M|Driving|Certificate|1 Month|Sajo Driving School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+192|Taizya Mukandi|||Mumbwa|Mumbwa|Mumba|Moomba|M|Power Electrical|Certificate|1 Month|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+193|John Litonga|||Mumbwa|Mumbwa|Mumba|Chibila|M|Automotive Engineering|Certificate|1 Year|Lusaka Vocational and Technical College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+194|Royd Simweemba|||Mumbwa|Mumbwa|Mumba|Chibila|M|Automotive Engineering|Certificate|2 Years|Lusaka Business and Technical College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+195|Lusungu Phiri|||Mumbwa|Mumbwa|Mumba|||General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+196|James Chiwala|||Mumbwa|Mumbwa|Mumba|Chibila|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+197|Samuel Sakuwaha|||Mumbwa|Mumbwa||Chibila|M|Excavator|Certificate|Month|Camco college|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+198|Situmbeko Situmbeko|||Mumbwa|Mumbwa|Mumba|Chibila|M|General Agriculture|Certificate|1 Year|Rockview University|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+199|Marvin Chikandula|||Mumbwa|Mumbwa|Mumba|Mumba|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+200|‘Vincent Mishengo|||Mumbwa|Mumbwa|Mumba|Mumba|M|Automotive Mechanics|Certificate|2 Years|Luanshya Technical and Business College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+201|Belgrana Mulenga|||Mumbwa|Mumbwa|Kamilamt|Kanwanzl|F|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+202|Jackson Katamfya|||Mumbwa|Mumbwa|Kamilamt|Kanwanzt|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+203|Joseph Masama|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+204|Gift Mungeya|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|M|Metal Fabrication|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+205|Lister Mubukwanu|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Computer Studies|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+206|Rose Kachinda|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+207|Rodgers Malambo|||Mumbwa|Mumbwa|Kamilamt|Musukam|M|Automacenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+208|Richard Nzyooma|||Mumbwa|Mumbwa|Kamilamt|Kamilamt|M|Computer Studies|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+209|Jackline Habwanda|||Mumbwa|Mumbwa|Kamilamk|Nkulumaz|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+210|Rosemary Hamweemba|||Mumbwa|Mumbwa|Kamilamt|Musukam,|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+211|Lushomo Ngandu|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+212|Justina Mipolo|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+213|Violet Mukota|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+214|Peter Weshi Chisanga|||Mumbwa|Mumbwa|Kamilamt|Kamilamt|M|Automachenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+215|Rabecca Milambo|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+216|Oliver Chakalala|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+217|Astridah Hamalambo|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Computer Studies|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+218|Moment Miyanda|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+219|Lillian Malambo|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+220|Machayi Chitemba|||Mumbwa|Mumbwa|Kamilamt|Nkulumaz|M|Metal Fabrication|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+221|Geshom Siwale|||Mumbwa|Mumbwa||Kawama|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+222|Rodgers Mweembo|||Mumbwa|Mumbwa||Kawama|M|Fashion Design and Textile Technology|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+223|Cralence Hakaminza|||Mumbwa|Mumbwa||||Driving and Basic Mechanics|Certificate|3.Months|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+224|Daniel Ndonga|||Mumbwa|Mumbwa|Mpusu|Itumbwe|M|Bricklaying & Masonry|Certificate|6 Months|Destiny Education Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+225|Maluman David|||Mumbwa|Mumbwa||Kawama|M|Bricklaying & Masonry|Certificate||Destiny Education Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+226|Sikota Kuwabo|||Mumbwa|Mumbwa|Naluvwi|Sonkwe|M|Class C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+227|Crivos Mashombe|||Mumbwa|Mumbwa|Naluvwi|Kalisowe|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+228|Enock Katemba|||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|Class C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+229|Katanga Mary|||Mumbwa|Mumbwa|Naluvwi|Naluvwi|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+230|Herald Shakaluba|||Mumbwa|Mumbwa|Naluvwi|Naluvwi|M|Driving|Certificate|30 Days|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+231|Inonge Kuwabo|||Mumbwa|Mumbwa|Naluvwi|Sonkwe|M|Computer Studies|Certificate|6 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+232|Gift Kafuti Samoya|||Mumbwa|Mumbwa|Naluvwi|Kaunga|M|Motor Grader Operator|Certificate|1 Month|Camco College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+233|Best Simbayi|||Mumbwa|Mumbwa|Naluvwi|Kaunga|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+234|Brain Simbayi|||Mumbwa|Mumbwa|Naluvwi|Sonkwe|M|Automotive Engineering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+235|Patson Nyambe|||Mumbwa|Mumbwa|Lutale|Lutale|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+236|Sandra Kayanda|||Mumbwa|Mumbwa|Lutale|Lutale|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+237|Nyambe Sitali|||Mumbwa|Mumbwa|Lutale|Lutale|M|Driving|Certificate|1 Month|Zambian School of Driving|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+238|Temba Makwili|||Mumbwa|Mumbwa|Lutale|Katele|M|Class C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+239|Austen Shikabenga|||Mumbwa|Mumbwa|Lutale|Lutale|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+240|Joseph Kabiya|||Mumbwa|Mumbwa|Lutale|Lusekelo|M|Mechanical Fitting|Certificate|1 Year|Northern Technical College Management board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+241|Jethro Banda|||Mumbwa|Mumbwa|Lutale|Lusekelo|M|Automotive Mechanics|Diploma|3 Years|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+242|Paul Ndulumina|||Mumbwa|Mumbwa|Lutale|Lutale|M|General Agriculture|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+243|Edinah Mwananduba|||Mumbwa|Mumbwa|Lutale|Lutale|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+244|Peter Chilalu|||Mumbwa|Mumbwa|Lutale|Lusekelo|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+245|Christine Ndumba|||Mumbwa|Mumbwa|Lutale|Lutale|E|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+246|Chabota Hamaumbwe|||Mumbwa|Mumbwa|Lutale|Mapoko|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+247|Royd Biyela|||Mumbwa|Mumbwa|Lutale|Lusekelo|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+248|Joseph Chingano|||Mumbwa|Mumbwa|Lutale|Lutale|M|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+249|Jelison Ndubula|||Mumbwa|Mumbwa|Lutale|Lutale|M|Class C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+250|Gerald Hamweene|||Mumbwa|Mumbwa|Lutale|Lutale|M|Class C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+251|Vincent Jombo|||Mumbwa|Mumbwa|Lutale|Katele|M|Classs C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+252|Gift Mulambya Mweemba|||Mumbwa|Mumbwa|Lutale|Mulenden|M|Driving|Certificate|1 Month|Zambian School of Driving|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+253|Chipego Sikufa|||Mumbwa|Mumbwa|Lutale|Mapoko|F|Fashion Design and Textile Technology|Certificate|1 Month|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+254|Elizabeth Kalambo|||Mumbwa|Mumbwa|Lutale|Lusekelo|F|Electrical Engineering|Certificate|2 Years|Kabwe Institute of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+255|Sikota Swaniso|||Mumbwa|Mumbwa|Lutale|Mulenden|M|Driving|Certificate|1 Month|Zambia School of Driving|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+256|Oliver Upite|||Mumbwa|Mumbwa|Lutale|Mulenden|M|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+257|Esther Phiri|||Mumbwa|Mumbwa|Lutale|Lusekelo|F|General Hospitality|Diploma|3 Years|Evergrace University College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+258|Justinah Phiri|||Mumbwa|Mumbwa|Nambala|Nambala|F|Food and Nutrition|Certificate|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+259|Makambwe|||Mumbwa|Mumbwa|Nambala|Nambala|F|Food Production|Certificate|6 Months|Cake Market College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+260|Gift Musole|||Mumbwa|Mumbwa|Nambala|Nambala|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+261|Simon Shakemba|||Mumbwa|Mumbwa|Nambala|Nambala|M|Bricklaying and Plastering|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+262|Florence Kaumbwa|||Mumbwa|Mumbwa|Nambala|Kankunka|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+263|Nanji Kambwambwa|||Mumbwa|Mumbwa|Nambala|Nambala|F|Food and Nutrition|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+264|Belita Shazemba|||Mumbwa|Mumbwa|Nambala|Nambala|F|General Agriculture|Diploma|3 Years|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+265|Gracious Chimit|||Mumbwa|Mumbwa|Nambala|Nambala|F|General Agriculture|Diploma|3 Years|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+266|Abgail Swana|||Mumbwa|Mumbwa|Nambala|Kankunka|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+267|Cosmas Shakemba|||Mumbwa|Mumbwa|Nambala|Kankunka|F|Automotive Machenics|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+268|Foster Mwiinde|||Mumbwa|Mumbwa|Nambala|Kayumwe|M|Dump Truck|Certificate|3 Months|Handsworth Institute of Health Sciences and Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+269|Negret Fisonga|||Mumbwa|Mumbwa|Nambala|Kankunka|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+270|Siamani Chilawo Nchimunya|||Mumbwa|Mumbwa|Nambala|Nambala|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+271|Lonita Mubambe|||Mumbwa|Mumbwa|Nambala|Butinti|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+272|Joyce Shanaile|||Mumbwa|Mumbwa|Nambala|Mululi|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+273|Constance Shanaile|||Mumbwa|Mumbwa|Nambala|Mululi|F|Fashion Design and Textile Technology|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+274|Yvonne Muzuni|||Mumbwa|Mumbwa|Nambala|Nambala|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+275|Andrew Mapushi|||Mumbwa|Mumbwa|Nambala|Nambala|M|Metal Fabrication|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+276|Tinobona Simbarashe|||Mumbwa|Mumbwa|Nambala|Nambala|M|General Agriculture|Certificate|3 Years|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+277|Susan Lyangunga|||Mumbwa|Mumbwa|Nambala|Butinti|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+278|Fridah Dube|||Mumbwa|Mumbwa|Nambala|Nambala|F|General Agriculture|Diploma|3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+279|Justina Gore|||Mumbwa|Mumbwa|Nambala|Butinti|F|Food Production|Certificate|1 Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+280|Penias Mwale|||Mumbwa|Mumbwa|Nambala|Moono|M|Automotive Mechanics|Certificate|1 Year|Lusaka Business and Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+281|Lantah Shakemba|||Mumbwa|Mumbwa|Nambala|Kankunka|F|Fashion Design and Textile Technology|Certificate|Year|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+282|Edify Sakanga|||Mumbwa|Mumbwa|Nambala|Moono|M|Excavator|Certificate|2 Weeks|Handsworth Institute of Health Sciences and Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+283|Nathan Sakanga|||Mumbwa|Mumbwa|Nambala|Moono|M|Food Production|Certificate|3 Months|Handsworth Institute of Health Sciences and Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+284|Cloud Nyoni|||Mumbwa|Mumbwa|Nambala|Butinti|M|Excavator|Certificate|2 Weeks|Handsworth Institute of Health Sciences and Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+285|Kapotwe|||Mumbwa|Mumbwa|Nambala|Nambala|M|Class C Heavy Duty Truck Driving|Certificate|1 Month|Industrial Training Centre Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+286|Elvis Mululi|||Mumbwa|Mumbwa|Nambala|Mululi|M|Driving|Certificate|3 Months|Mumbwa Youth Resources Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+287|Pethias Kaumbwa|||Mumbwa|Mumbwa|Nambala|Nambala|M|General Agriculture|Diploma|(3 Years|Natural Resources Development College (NRDC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+1|Moto Auxilia|305080/15/1|||Mumbwa|Mupona||M|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+2|Kabemba Linda|284997/15/1|||Mumbwa|Mupona||F|Food and Beverages|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+3|Ng'uni Samuel|862315/10/1|||Mumbwa|Mupona||M|Auto-Motive Engneering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+4|Cheelo Davison|278344/15/1|||Mumbwa|Mupona||M|General Agriculture|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+5|Nkwnisha Given|299913/10/1|||Mumbwa|Mupona||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+6|Mumbuka Rabecca|196573/15/1|||Mumbwa|Mupona||F|Basic Computer Application|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+7|Ng'andu Albert|373236/16/1|||Mumbwa|Mupona||M|Food Production|Certificate|12|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+8|Shinyambo Hilter Kabanga|637334/52/1|||Mumbwa|Mupona||M|Information and Communicati:|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+9|Mweemba Racheal|317797/15/1|||Mumbwa|Mupona||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+10|Chongo Shadreck|196058/15/1|||Mumbwa|Mupona||M|Information and Communicati:|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+11|Sifaya Beauty|196293/15/1|||Mumbwa|Mupona||F|General Agriculture|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+12|Chipisa Maybin|254806/15/1|||Mumbwa|Mupona||M|Auto-Motive Engneering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+13|Mbangu Misheck Kanguya|135100/96/1|||Mumbwa|Mupona||M|Auto-Motive Engneering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+14|Phiri Samuel|321909/15/I|||Mumbwa|Mupona||M|Agricultural Business Managei|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+15|Shaba Sibongile|326876/15/1|||Mumbwa|Mupona||M|Agricultural Engineering|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+16|Musialike Patrick|282035/15/1|||Mumbwa|Shimbizhi||M|Power Electrical|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+17|Mweemba Anderson|325509/15/1|||Mumbwa|Shimbizhi||M|Auto-Machenics Engneering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+18|Lungu Miracal|326737/15/1|||Mumbwa|Shimbizhi||M|Information and Communicati|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+19|Mwanza Taonga|294920/15/1|||Mumbwa|Shimbizhi||F|Agricultural Business|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+20|Masiya Marvellous|279034/15/1|||Mumbwa|Shimbizhi||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+21|Chiluma Anetty|775694/10/1|||Mumbwa|Naluvwi||F|General Hospitality|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+22|Ruth Munongo|317054/15/1|||Mumbwa|Kaindu||M|Driving C1|Certificate|24|Kitwe Trades School|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+23|Njekwa Elvis|281771/15/1|||Mumbwa|Mupona||M|General Agriculture|Certificate|24|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+24|Njekwa Kennedy|328738/76/1|||Mumbwa|Mupona||M|General Agriculture|Certificate|24|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+25|Mate Bridget|317981/15/1|||Mumbwa|Mupona||F|Fashion Design and Textile Te|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+26|Hamiyanda Fenard|295752/15/1|||Mumbwa|Mupona||M|Electrical Craft Certificate|Certificate|24|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+27|Noto Brenda|607922/10/1|||Mumbwa|Shimbizhi||F|Food Production|Certificate|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+28|Mutami Rabecca|432052/10/1|||Mumbwa|Mupona||F|Food and Beverages|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+29|Kamfundu John|280708-15-1|||Mumbwa|Mupona||M|Trade One (1) Heavy Equipme|Certificate|36|Northern Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+30|Simweemba Emmanuel Benson|572994/10/1|||Mumbwa|Mupona||M|Auto-Mechenics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+31|Makala Raymond|279036/15/1|||Mumbwa|Mupona||M|Auto-Mechanics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+32|Makala Jessica|329935/15/1|||Mumbwa|Mupona||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+33|Mweetwa Andrew|288222/15/1|||Mumbwa|Chibolyo||M|General Agriculture|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+34|Kamulosa Phinias|294114/15/1|||Mumbwa|Nambala||M|Auto - Mechanics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+35|Hachiwa Mike|325141/15/1|||Mumbwa|Mupona||M|Metal Fabrication|Certificate|24|Lusaka Trades|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+36|Hambulo Mazuba|284898/15/1|||Mumbwa|Mupona||M|Information and Communicati:|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+37|Liombe Simvula|294335/15/1|||Mumbwa|Nalusanga||M|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+38|Malunga Joseph|250396/15/1|||Mumbwa|Mupona||M|Tipper Truck Training|Certificate|12|Belsam|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+39|Mercy Mukena|327191/15/1|||Mumbwa|Mupona||F|General Agriculture|Diploma|36|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+40|Manyando Joseph|252273/15/1|||Mumbwa|Mupona||M|Tipper Truck Training|Certificate|12|Belsam|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+41|Mwanza Luckson|289857/15/1|||Mumbwa|Kamilambo||M|Electrical Engineering|Diploma|36|Lusaka Business & Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+42|Kapelwa Samatebebele|283015/83/1|||Mumbwa|Kalwanyembe||M|Power Electrical|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+43|Mutani Trenspher|315480/15/1|||Mumbwa|Chibolyo||M|Metal Fabrication|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+44|Simuchimba Christopher|326815/15/1|||Mumbwa|Mupona||M|Computer|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+45|Mulofwa Judith|327497/15/1|||Mumbwa|Mupona||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+46|Kuwabo Mercy|303420/15/1|||Mumbwa|Naluvwe||F|General Agriculture|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+47|Natasha Kashokela|291968/15/1|||Mumbwa|Mupona||F|Information and Communicati:|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+48|Atangambuyu Nayoto|420215/16/1|||Mumbwa|Shimbizhi||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+49|Sichone Annie|327380/15/1|||Mumbwa|Mupona||F|Food & Beverages|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+50|Mubita Mathews|25413 1/15/1|||Mumbwa|Naluvwi||M|Auto - Mechanics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+51|Muyoba Mwiiya|327340/15/1|||Mumbwa|Naluvwi||M|Automotive Mechanics|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+52|Shakaluba Herald|280388/15/I|||Mumbwa|Naluvwi||M|Automotive Mechanics|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+53|Kapepela Miyanda|325169/15/1|||Mumbwa|Chibolyo||F|Computer|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+54|Mulenga Grace|571223/61/1|||Mumbwa|Mupona||F|General Agriculture|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+55|Kapepele Mervis|290343/15/1|||Mumbwa|Mumba||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+56|Mambati Wisdom|317384/15/1|||Mumbwa|Mupona||M|Heavy Equipment Repair|Certificate|24|Luanshya Technical & Business College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+57|Mainga Precious|223594/15/1|||Mumbwa|Mupona||F|General Agriculture|Diploma|36|Zambia College of Agriculture|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+58|Kapui Musheshe|124118/86/1|||Mumbwa|Mupona||M|Power Electrical|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+59|Patricia Liwoyo|223490/15/1|||Mumbwa|Mumba||F|Food and Beverages|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+60|Kalekeni Jessy|159265/69/1|||Mumbwa|Mumba||F|Electrical and Electronics|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+61|Cholobesa Harriet|286579/15/1|||Mumbwa|Mumba||F|Food and Beverages|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+62|Albetuna Mukuni|211928/15/1|||Mumbwa|Mupona||F|General Agriculture|Certificate|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+63|chilubi Martha|284201/15/1|||Mumbwa|Kamilambo||M|General Agriculture|Certificate|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+64|Samundengo Janet|225124/15/1|||Mumbwa|Kamilambo||M|Computer Studies|Certificate|12|Technical and Vocational Teacher's College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+65|Sapola Samson|328621/15/1|||Mumbwa|Mupona||M|Auto-Machenics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+66|Musole Matthews|317289/71/1|||Mumbwa|Mupona||M|Mechanics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+67|Sandra catherine|326908/15/1|||Mumbwa|Mupona||F|Mechanics Engineering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+68|Sinfukwe Proud|286493/15/1|||Mumbwa|Mupona||M|Bricklaying and Plastering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+69|Lubinda Charles|237750/15/1|||Mumbwa|Mupona||M|Auto-Electrical|Certificate|24|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+70|Maleya Christina|293638/15/1|||Mumbwa|Mupona||F|Auto-Electrical|Certificate|24|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+71|Miyato Enerst|295890/15/1|||Mumbwa|Mupona||F|Computer Systems Engineerin;|Diploma|24|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+72|Samalumo Ruth|288172/15/1|||Mumbwa|Nambala||F|Diploma in Fisheries and Aqui|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+73|Ndongani Pumulo|327205/15/1|||Mumbwa|Nambala||M|Electrocal and Ectronics|Certificate|12,|Technical and Vocational Teachers College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+74|Manyongo Annie|327491/15/1|||Mumbwa|Mupona||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+75|Milanzi Belita|318790/16/1|||Mumbwa|Mumba||F|Food and Beverages|Certificate|12|Technical and Vocational Teachers College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+76|Kachoya Betty|321036/15/I|||Mumbwa|Mumba||F|Food and Beverages|Certificate|12|Technical and Vocational Teachers College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+77|Kashika Louis|293761/15/1|||Mumbwa|Mumba||F|General Agriculture|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+78|Zulu Idess|321198/15/1|||Mumbwa|Mumba||F|Food Production|Certificate|12|Technical and Vocational Teachers College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+79|Kaluwe Elizabeth|245175/15/1|||Mumbwa|Mumba||F|Fashion Design and Textile Te|Certificate|12|Technical and Vocational Teachers College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+80|Makusha Florence|277404/15/1|||Mumbwa|Mumba||M|Fashion Design and Textile Te|Certificate|12|Technical and Vocational Teachers College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+81|Munyama Eunice Sibongile|329481/15/1|||Mumbwa|Lutale||F|Information Communication Techn|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+82|Paul Lizhimu|326551/15/1|||Mumbwa|Mumba||M|Information Communication Techn|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+83|Kelvin Masapi|803470/10/1|||Mumbwa|Mupona||M|Automotive Technology|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+84|Mbasela El-Shaddai|195115/15/1|||Mumbwa|Mupona||F|Fashion Design and Textile Technolog:|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+85|Lukoshi George|295914/15/1|||Mumbwa|Mupona||M|General Agriculture|Diploma|36|Zenith Institute of Health Sciences & Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+86|Joseph Sikasote|136855/14/1|||Mumbwa|Mupona||M|Automotive Engineering|Certificate|24|Lusaka Business & Technical College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+87|Mwango Lwipa Felix|729763/10/1|||Mumbwa|Mupona||M|Information Technology|Diploma|36|Zambia University College of Technology|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+88|Cheelo Florence|309183/15/1|||Mumbwa|Shimbizhi||F|General Agriculture|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+89|Cheelo Timothy|325863/15/1|||Mumbwa|Mupona||M|General Agriculture|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+90|Roy Shinyambo|290021/15/1|||Mumbwa|Mupona||M|Electrical Technician|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+91|Chishwashwa Ben|328347/15/1|||Mumbwa|Mupona||M|Auto-Motive Engneering|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+92|Mirriam Ndineka|329398/15/1|||Mumbwa|Mupona||F|Food and Nutrition|Diploma|36|Natural Resources Development College|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+93|Kalenda Dorothy|326793/15/1|||Mumbwa|Mumba||M|Fashion and Design|Certificate|12|Industrial Training Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+94|Mukuka Cecilia|322754/15/1|||Mumbwa|Mumba||M|Information and Communication Tt|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+95|Nang'alelwa Robison|203424/18/1|||Mumbwa|Mumba||M|Power Electrical|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+96|Mpile Elvis|287299/15/1|||Mumbwa|Mumba||M|Aircraft Maintenance Engineering|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+97|Mangoma Kelvin|277231/15/1|||Mumbwa|Shimbizhi||M|Electrical & Electronics|Certificate|12|Technical & Vocational Teachers College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+98|Kapande Abishai|242786/15/1|||Mumbwa|Shimbizhi||M|Electrical & Electronics|Certificate|12|Technical & Vocational Teachers College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+99|Choolwe Maambo|189093/10/1|||Mumbwa|Shimbizhi||M|Information and Communication Ti|Diploma|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+100|Muchindu Andrew|468480/74/1|||Mumbwa|Mumba||M|Automotive Engineering|Diploma|36|Northern Technical College (NORTEC)|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+101|Mulimba Melody|328940/15/1|||Mumbwa|Shimbizhi||F|Fashion and Design|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+102|Mabuwa Evelyn|304386/15/1|||Mumbwa|Shimbizhi||F|Electrical & Electronics|Certificate|12|Technical & Vocational Teachers College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+103|Malunga Faidess|326812/15/1|||Mumbwa|Mumba||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+104|Mubuwa Eness|304385/15/1|||Mumbwa|Shimbizhi||E|Food Production|Certificate|12|Technical & Vocational Teachers College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+105|Zulwe Frank|291525/15/1|||Mumbwa|Shimbizhi||M|Automotive Engineering|Certificate|39|Lusaka Business & Technical College Management|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+106|Chingumbe Mariana|315787/15/1|||Mumbwa|Nalusanga||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+107|Luseke Sebia|134578/15/1|||Mumbwa|Nalusanga||F|Computer Studies|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+108|Mwiinga Bridget|235004/75/1|||Mumbwa|Kalwanyembe||F|Fashion and Design|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+109|Nsama Gift|268850/15/1|||Mumbwa|Kalwanyembe||F|Electrical & Electronics|Certificate|12|Technical & Vocational Teachers College Management Board|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+110|Agness Juru|890015/10/1|||Mumbwa|Mumba||F|Food Production|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+111|Banji Euphemia|325381/15/1|||Mumbwa|Mumba||F|Fashion and Design|Certificate|12|Mumbwa Youth Resource Centre|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries
+112|Nasilele Mukelabai|237872/84/1|||Mumbwa|Mumba||M|Electrical Technician|Certificate|36|Zambia Air Services Training Institute|cdf_skills_bursaries_mumbwa_2025|2025|skills_bursaries

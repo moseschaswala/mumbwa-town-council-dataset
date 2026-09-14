@@ -62,15 +62,15 @@ The secondary bursaries dataset contains 787 records from Mumbwa and Nangoma con
 
 The source documents were collected from the Mumbwa Town Council website. The assignment specification identifies Project Team #22 as Mumbwa Town Council with the official website `https://www.mumbwacouncil.gov.zm`.
 
-Original PDF files were kept in `data/raw/pdfs/` and were not modified.
+Original PDF files were kept in `data/CDF/raw/pdfs/` and were not modified.
 
-Some tables were difficult to extract directly because they were scanned or image-based. Those tables were recreated into machine-readable PDFs and saved in `data/intermediate/reconstructed_pdfs/`.
+Some tables were difficult to extract directly because they were scanned or image-based. Those tables were recreated into machine-readable PDFs and saved in `data/CDF/intermediate/reconstructed_pdfs/`.
 
-The extraction script `src/extractor.py` reads each recreated PDF with `pdfplumber`, extracts tables page by page, adds simple source information, and saves pipe-separated CSV files in `data/extracted/`.
+The extraction script `src/extractor.py` reads each recreated PDF with `pdfplumber`, extracts tables page by page, adds simple source information, and saves pipe-separated CSV files in `data/CDF/extracted/`.
 
-The cleaning script `src/cleaner.py` reads extracted CSV files, cleans column names, removes extra spaces and line breaks, removes empty rows, removes exact duplicate rows, standardizes common columns, and saves processed pipe-separated CSV files in `data/processed/`.
+The cleaning script `src/cleaner.py` reads extracted CSV files, cleans column names, removes extra spaces and line breaks, removes empty rows, removes exact duplicate rows, standardizes common columns, and saves processed pipe-separated CSV files in `data/CDF/processed/`.
 
-The integration script `src/integrator.py` combines only files that contain the same type of CDF data. It creates final pipe-separated CSV files in `data/final/` using the required file naming convention.
+The integration script `src/integrator.py` combines only files that contain the same type of CDF data. It creates final pipe-separated CSV files in `data/CDF/final/` using the required file naming convention.
 
 The validation script `src/validator.py` provides simple checks for missing values, duplicate rows, missing required columns, and invalid amount values. Validation warnings are used for manual checking and do not automatically delete records.
 

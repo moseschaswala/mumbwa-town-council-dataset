@@ -1,79 +1,103 @@
-# CDF Data Methodology
+# Dataset Methodology
 
-This document explains only the CDF part of the Mumbwa Town Council group project.
+This document explains how the Mumbwa Town Council group dataset is organized and prepared. The dataset is a multi-table dataset, not one combined CSV, because CDF records, IDP plans, council structure records, meeting resolutions, and financial records describe different subjects.
 
-Other group members may add financial data, IDP data, council profile and administrative data, council meeting data, ward committee data, and other council records in their own files.
+## Source Collection
 
-## Data Source
+Source records are collected from the official Mumbwa Town Council website and council documents. Category folders keep the raw source material separate from cleaned and final outputs.
 
-The CDF data came from PDF documents downloaded from the Mumbwa Town Council website.
+Current source categories:
 
-The documents include grants, community projects, skills bursaries, secondary boarding school bursaries, and not-approved community projects for Mumbwa and Nangoma constituencies.
+- `data/CDF/raw/` contains CDF source links and original PDF files.
+- `data/IDP/raw/` contains the Mumbwa IDP PDF source.
+- `data/Council_Structure_and_Management/raw/` is reserved for council profile, management, councillor, and ward committee source material.
+- `data/Meetings_and_Minutes/raw/` is reserved for meeting and council resolution source material.
+- `data/Finance/raw/` is prepared for budget, revenue, audit, procurement, and related financial sources that will be added later.
+- `data/Public_Services_and_Legal_Data/` is prepared for public service and legal records.
 
-## PDF Collection
+## Notebooks and Scripts
 
-Original PDF files are kept in `data/raw/pdfs/`.
+The notebooks in `notebooks/` show the category workflows used by group members. The Python modules in `src/` contain reusable helpers for collection, extraction, cleaning, integration, and validation.
 
-These files should not be changed because they are the source documents used for checking the data.
+The CDF notebook shows a complete workflow from web scraping, PDF downloading, table extraction, cleaning, CSV creation, and final data production. Other category notebooks should follow the same general structure where possible:
 
-The collection process starts from the Mumbwa Town Council CDF Tracker page: `https://www.mumbwacouncil.gov.zm/?page_id=932`.
+1. Define source pages or documents.
+2. Download or load source documents.
+3. Extract text or tables.
+4. Clean column names and values.
+5. Save intermediate files when useful.
+6. Save final analysis-ready CSV files to the category `final/` folder.
+7. Validate row counts, duplicate rows, empty columns, and required fields.
 
-The source link list is saved in `data/raw/cdf_pdf_sources.csv`.
+## CDF Processing
 
-The collection script is `src/collector.py`.
+The CDF data came from PDF documents downloaded from the Mumbwa Town Council CDF Tracker page. Some PDF tables were scanned or difficult to extract directly, so recreated machine-readable PDFs were produced and stored in `data/CDF/intermediate/reconstructed_pdfs/`.
 
-## Recreated PDFs
+The CDF process uses:
 
-Some PDF tables were scanned images and could not be extracted properly using `pdfplumber`.
+- `src/collector.py` for source collection.
+- `src/extractor.py` for PDF table extraction.
+- `src/cleaner.py` for cleaning extracted tables.
+- `src/integrator.py` for combining same-type CDF records.
+- `src/validator.py` for basic validation checks.
 
-For those files, the tables were recreated into machine-readable PDFs. The recreated PDFs are kept in `data/intermediate/reconstructed_pdfs/`.
+Final CDF files are saved in `data/CDF/final/`.
 
-## Table Extraction
+## IDP Processing
 
-Tables should be extracted from the original PDF when possible.
+The IDP data are extracted from the Mumbwa IDP PDF and selected council web pages. The final IDP layer was cleaned by:
 
-If the original PDF is scanned, tables should be extracted from the recreated PDF.
+- Removing duplicate final exports.
+- Removing empty or broken final exports.
+- Fixing an incorrect `csc4794` filename typo.
+- Removing repeated header rows that appeared as data.
+- Standardizing column names to lowercase `snake_case`.
+- Removing exact duplicate rows.
+- Fixing text encoding artifacts where possible.
+- Repairing one shifted row in the forest reserves table.
 
-Extracted CSV files should be saved in `data/extracted/`.
+Final IDP files are saved in `data/IDP/final/`.
 
-For this CDF dataset, the recreated PDFs were used because they contain machine-readable tables. The extraction script is `src/extractor.py`.
+## Council Structure and Management
 
-The extracted CSV files use the pipe character `|` as the column separator.
+Council structure and management records are stored separately from CDF and IDP records. These files cover administrative, councillor, ward development committee, and related management information where available. Final files are saved in `data/Council_Structure_and_Management/final/`.
 
-The extracted files keep source details for checking. The cleaned and final files use a shorter `source_id` to avoid repeating long PDF names in every row.
+## Meetings and Minutes
 
-## Data Cleaning
+Meeting and resolution data are stored in `data/Meetings_and_Minutes/final/`. The current public council resolutions file should be treated as a text-extraction dataset. Some rows may contain partial resolution text and should be manually checked against the source document before formal publication.
 
-Cleaning is done with simple Python functions in `src/cleaner.py`.
+## Finance Data
 
-The cleaning steps remove extra spaces, clean column names, remove empty rows, remove exact duplicate rows, and clean amount values.
+Finance data has not yet been added, but the repository already contains `data/Finance/raw/`, `data/Finance/processed/`, and `data/Finance/final/`. When finance records are added, they should follow the same structure:
 
-Cleaned CSV files are saved in `data/processed/`.
+- Keep source documents in `raw/`.
+- Keep working cleaned files in `processed/`.
+- Put only publication-ready tables in `final/`.
+- Add finance table entries to `docs/dataset_manifest.csv`.
+- Add finance column definitions to `docs/data_dictionary.md`.
+- Add finance sources to `docs/data_sources.md`.
+- Update validation results in `docs/validation_report.md`.
 
-The cleaning script is `src/cleaner.py`.
+## Final Dataset Rules
 
-## Data Checking
+Only files with the same meaning and compatible columns should be combined. Different record types should stay separate. For example, CDF grants, CDF bursaries, IDP implementation plans, revenue projections, school infrastructure tables, council resolutions, and finance tables should remain separate final CSV tables.
 
-Validation is done with simple warning functions in `src/validator.py`.
+All final CSV files use `|` as the separator.
 
-The checks show missing values, duplicate rows, missing required columns, and invalid amount values.
+## Validation
 
-The validation functions do not delete suspicious data. Any warning should be checked against the original PDF.
+Validation checks include:
 
-## Final Datasets
+- Whether each final CSV can be read with `sep="|"`.
+- Row and column counts.
+- Exact duplicate rows.
+- Empty columns.
+- Duplicate-looking filenames.
+- Obvious filename errors.
+- Category-level final-table totals.
 
-Only files with the same type of CDF data should be combined.
+The current validation summary is stored in `docs/validation_report.md`.
 
-For example, grants from Mumbwa and Nangoma can be combined into `data/final/grants.csv`.
+## Publication Note
 
-Different data types should stay separate unless their columns make sense together.
-
-For this project, the final files follow the assignment naming rule:
-
-- `db-unza26-csc4792-mumbwa_town_council_cdf_grants.csv`
-- `db-unza26-csc4792-mumbwa_town_council_cdf_community_projects.csv`
-- `db-unza26-csc4792-mumbwa_town_council_cdf_not_approved_community_projects.csv`
-- `db-unza26-csc4792-mumbwa_town_council_cdf_skills_bursaries.csv`
-- `db-unza26-csc4792-mumbwa_town_council_cdf_secondary_bursaries.csv`
-
-All final CSV files are saved in `data/final/` and use `|` as the separator.
+Before public publication, the group should review sensitive personal fields in CDF bursary and grant data. Public records can still contain personal information, so a redacted public version may be safer for Kaggle or other open platforms.
